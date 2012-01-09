@@ -1,3 +1,3 @@
-require 'heroku'
+require 'sinatra'
 
 run Sinatra::Application
