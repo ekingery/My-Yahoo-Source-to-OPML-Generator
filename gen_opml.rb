@@ -1,4 +1,5 @@
 require 'sinatra'
+
 require './my_yahoo_source_to_opml'
 
 $max_title_len = 50
