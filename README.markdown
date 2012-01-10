@@ -1,7 +1,7 @@
 My Yahoo Source to OPML Generator
 =================================
 
-Converts My Yahoo Source code to OPML for importing into other web services
+Converts My Yahoo Source code to OPML for importing into other feed readers
 ---------------------------------------------------------------------------
 
 http://gen-opml.ekingery.com/
