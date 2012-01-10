@@ -6,8 +6,7 @@
     <title>My Yahoo HTML Source -> OPML Generator</title>
 
     <script type="text/javascript">
-//<![CDATA[
-
+/* <![CDATA[ */
     var demoText = 'ajax failed, see /demo_content.txt';
     if (window.XMLHttpRequest) {
       xmlhttp=new XMLHttpRequest();
@@ -20,8 +19,20 @@
       document.forms['genform'].elements['post[title]'].value = 'demo import';
       document.forms['genform'].elements['post[htmlsrc]'].value = demoText;
     }
+/* ]]> */
+    </script>
 
-//]]>
+    <script type="text/javascript">
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script'), t = 
+            document.getElementsByTagName('script')[0];
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
     </script>
 
 </head>
@@ -44,6 +55,16 @@
   </form>
   <br /><hr />
   <p>
+  <a class="FlattrButton" style="display:none;" 
+    href="http://gen-opml.ekingery.com/"></a>
+  <noscript>
+    <a href="http://flattr.com/thing/463597/My-Yahoo-Source-to-OPML-Generator" 
+        target="_blank">
+        <img src="http://api.flattr.com/button/flattr-badge-large.png" 
+            alt="Flattr this" title="Flattr this"/>
+    </a>
+  </noscript>
+  <br /><br />
   <a href=
     "https://github.com/ekingery/My-Yahoo-Source-to-OPML-Generator#readme">
     About
