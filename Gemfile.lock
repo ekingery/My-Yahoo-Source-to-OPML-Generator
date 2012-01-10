@@ -2,6 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     addressable (2.2.6)
+    builder (3.0.0)
     daemons (1.1.5)
     eventmachine (0.12.10)
     heroku (2.17.0)
@@ -33,6 +34,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  builder
   heroku
   sinatra
   thin
