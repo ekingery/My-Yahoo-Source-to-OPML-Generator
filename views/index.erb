@@ -1,0 +1,44 @@
+<html>
+<head> <title>My Yahoo HTML Source -> OPML Generator</title>
+
+<script type="text/javascript">
+//<![CDATA[
+
+var demoText = 'ajax failed, see /demo_content.txt';
+if (window.XMLHttpRequest) {
+    xmlhttp=new XMLHttpRequest();
+    xmlhttp.open("GET", "/demo_content.txt", false);
+    xmlhttp.send();
+    demoText=xmlhttp.responseText;
+}
+
+function DemoContent() {
+  document.forms['genform'].elements['post[htmlsrc]'].value = demoText;
+}
+
+//]]>
+</script>
+
+</head>
+<body>
+<h2><a href="/">My Yahoo HTML Source -> OPML Generator</a></h2>
+
+<form name="genform" action="" method="post">
+Import Label: 
+  <input type="text" name="post[title]" maxlength="<%= $max_title_len %>"/>
+  (optional)
+<br /><br />Paste My Yahoo HTML Source Below: 
+  (<a href="javascript:DemoContent()"/>demo content</a>)<br />
+<textarea name="post[htmlsrc]" rows="20" cols="80"></textarea><br />
+<input type="radio" name="post[view_type]" value="view" checked/>
+View OPML Source
+<input type="radio" name="post[view_type]" value="download"/>Download OPML File 
+<br /> <input type="submit" value="Generate" />
+</form>
+<br /><hr />
+<p><a href="https://github.com/ekingery/My-Yahoo-Source-to-OPML-Generator">
+  Source code</a></p>
+
+</body>
+</html>
+

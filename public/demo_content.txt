@@ -1,0 +1,1722 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html class="ua-wk">
+<head>
+<script>var gTop = Number(new Date());</script>           <script>  </script><title>My Yahoo!</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="http://l.yimg.com/a/i/us/my/mw/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="http://l.yimg.com/zz/combo?gh/lib/my/css/components/windowshade_0.0.7.css&gh/lib/my/css/core_0.1.355.css&gh/lib/my/css/components/modoptions_0.0.14.css&gh/lib/my/css/modules/type_placeholder_0.1.20.css&gh/lib/my/css/modules/type_simple_0.1.61.css&gh/lib/my/css/controls/tabset_0.1.16.css&gh/lib/my/css/components/uh_0.0.6.css&gh/lib/my/css/components/showcase_0.1.25.css">
+<link rel="stylesheet" type="text/css" href="http://l.yimg.com/kx/ucs/mailcount/css/16/mailcount-min.css">
+<link rel="stylesheet" type="text/css" href="http://l.yimg.com/kx/ucs/notif_v2/css/78/notifications_v2-min.css">
+<link rel="stylesheet" type="text/css" href="http://l.yimg.com/kx/ucs/avatar/css/17/avatar-min.css">
+<link rel="stylesheet" type="text/css" href="http://l.yimg.com/kx/ucs/uh/css/221/logo-min.css">
+<link rel="stylesheet" type="text/css" href="http://l.yimg.com/kx/ucs/uh/css/253/yunivhead-min.css">
+
+
+            <style type="text/css"> body{background:#CCCFD5}
+
+a:link,a:visited{text-decoration:none;}
+a:hover{text-decoration:underline;}
+.on a:hover{text-decoration:none;}
+
+/* Format --------------------------------------------------------------------*/
+    
+.ymy-pipedlist .pipe { 
+    border-left:1px solid #dbdbdb;
+    border-right:1px solid #ffffff
+}
+
+#bd{background:#CCCFD5 url(http://l.yimg.com/a/i/us/my/th/thm/bg_noise.gif) 0 -1100px repeat;border-top:1px solid #cfcfcf;height:100% !important;min-height:600px;_height:600px}
+
+
+#featured-mod a.open{color:#000 !important}
+.mod .type_quotes table a:visited{color:#333333;}
+/* Trough */
+.pop #ql{border:1px solid #BDC0C7;border-top:none;background: #ffffff;}
+.pinned #ql{border:1px solid #BDC0C7;/*background: #ffffff url(http://l.yimg.com/a/i/us/my/mw/th/white/gsprite_pg_wht_052308.gif);*/}
+#ql .bd a {text-decoration:none;color:#255ca1;}
+#ql .bd a:hover { text-decoration: underline; }
+#ql #bbYnav li { color:#255ca1; }
+#trough-td.pop .navtoggle {background: transparent url(http://l.yimg.com/a/i/us/my/mw/sprite_pg_20090922.gif) 0px -2303px no-repeat;}
+#trough-td.pop .ttitle {display:none;}
+#trough-td.pinned .navtoggle {border-top:1px solid #255ca1; border-bottom:1px solid #255ca1;}
+#trough-td.pinned .navtoggle span {border-left:1px solid #255ca1; border-right:1px solid #255ca1;}
+#trough-td.pinned .navtoggle span span.min {border:none;border-top:1px solid #255ca1; border-bottom:1px solid #255ca1;}
+#trough-td.pinned .ttitle {display:block; position:absolute; top:0; font-weight:bold;font-size:95%; color:#255ca1; padding:0.2em 0.4em;}
+#trough-td.pinned #ynav {padding-top:1.5em;}
+#trough-td.pinned #bbYnav {padding-top:1em;}
+#ynav.t-mod { background: #ffffff url(http://l.yimg.com/a/i/us/my/mw/th/white/gsprite_pg_wht_052308.gif) repeat-x 0px -650px; border: 0px solid #BDC0C7; }
+#bbYnav.t-mod { background: #ffffff url(http://l.yimg.com/a/i/us/my/mw/th/white/gsprite_pg_wht_052308.gif) repeat-x 0px -650px; border: 0px solid #BDC0C7; }
+#trough-td.pop #ynav {background:none;}
+.t-mod .hd h2 a{color:#255ca1}
+.t-mod .hd .uc-title {color:#255ca1}
+.t-mod .t-ft{border-top:1px solid #d0d0d0;}
+.t-mod .t-ft a{background:none;}
+.t-mod .t-ft-bb{border-top:1px solid #d0d0d0; font-size:85%; font-family:arial; line-height:22px;}
+.t-mod .t-nb{border:0px;}
+.t-mod .mod-collapse,
+.t-mod .mod-collapse-closed,
+#my-sub-nav .mod-collapse,
+#my-sub-nav .mod-collapse-closed { background: url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif) no-repeat; _filter: none; }
+/* PA */
+.type_pa .pabody {background:transparent  repeat-x 0px -580px;}
+.type_pa ul.patabs li a:link, .type_pa ul.patabs li a:visited, .type_pa ul.patabs li a:hover, .type_pa ul.patabs li a:active { 
+    background-color:transparent; 
+    color: #333333; 
+    border: 1px outset #BDC0C7;
+}
+.dark-hue .type_pa ul.patabs li a:link, .dark-hue .type_pa ul.patabs li a:visited, .dark-hue .type_pa ul.patabs li a:hover, .dark-hue .type_pa ul.patabs li a:active { 
+    border-style: solid;
+}
+.type_pa ul.patabs li.tab-on div { background:none; }
+.type_pa .papreviewdiv, .type_pa .papreviewdiv .hd { background:none }
+.mod .type_coketoday .selected, .mod .type_coketoday .selected:link, .mod .type_coketoday .selected:hover, .mod .type_coketoday .selected:visited,
+.mod .type_coketoday .vplay, .mod .type_coketoday .vplay .ftlink, .mod .type_coketoday .vplay a:link, .mod .type_coketoday .vplay a:hover, .mod .type_coketoday .vplay a:visited {
+    background-color: #444444;
+    color: none;
+}
+.type_coketoday .ftlink {
+    background-color: none;
+}
+.mod .type_coketoday .ftlink:hover {
+    background-color: #444444;
+    color: none;
+}
+.mod .type_coketoday .ftlink img {
+    background-color:none;
+}
+.type_coketoday .ct {
+    border: 1px solid #e6e6e6;
+}
+.mod .type_coketoday .nav {
+    border-top: 1px solid #e6e6e6;
+}
+.type_quickpickscms .module_bd{
+    border: 1px solid #e6e6e6;
+}
+.type_quickpickscms .pagination{
+    border-top: 1px solid #e6e6e6;
+}
+.type_quickpickscms .item img {
+	border: 1px solid #e6e6e6;
+}
+.type_quickpickscms .quickpicks_video_content .primary {
+    background-color: none;
+}
+
+.type_quickpickscms .quickpicks_more_links .first {
+    border-right: 1px solid #e6e6e6
+}
+
+.type_quickpickscms .quickpicks_video_wrapper ul {
+    background-color: none;
+}
+
+.wideCol .type_quickpickscms .quickpicks_video_wrapper ul {
+    background-color: none;
+}
+
+.wideCol .type_quickpickscms .quickpicks_video_content .secondary {
+    background-color: none;
+    border-top: 1px solid #BDC0C7;
+}
+
+.type_quickpickscms .quickpicks_video_content .primary {
+    border-bottom: 1px solid #e6e6e6;
+}
+.mod .type_topPicks .line-h-t {
+    border-top : 1px solid none;
+}
+.type_attsports .attsports_footer_links li {
+    border-left: 1px solid #BDC0C7;
+}
+.type_attsports .attsports_news_head_photo img, .type_attsports .attsports_video_image img  {
+    border: 1px solid #BDC0C7;
+}
+
+.mod #ycw .ycw-rc-box {
+    background-color: none;
+    border: 1px solid #e6e6e6;
+}
+
+#my-sub-nav .pbar-lnks-ctr{background:#bebebe url(http://l.yimg.com/a/i/us/my/mw/th/white/gsprite_pg_wht_052308.gif) 0 100% repeat-x;border:1px solid #676767;border-top:none;border-bottom-width:2px;}
+#my-sub-nav .pbar-lnk-ctr{background:url(http://l.yimg.com/a/i/us/my/mw/sprite_pg_20090922.gif) 0 0 no-repeat;cursor:pointer;border:1px solid #d0d0d0;border-top: none; border-right-color: #676767; }
+#my-sub-nav .pbar-lnk-ctr .pbar-link a { color: ; }
+#my-sub-nav .pbar-link a.norgie,
+  .t-mod a.norgie { color: ; background-image: url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif); }
+#my-sub-nav #trough-quick-links { background: none; }
+#my-sub-nav #trough-quick-links,
+  #my-sub-nav #my-share { border-right-color: #d0d0d0; }
+#my-sub-nav #my-share-ctr.highlight,
+#my-sub-nav #my-personalize-ctr.highlight { background: #676767;}
+#my-sub-nav #my-share-ctr.highlight .pbar-lnk-ctr,
+#my-sub-nav #my-personalize-ctr.highlight .pbar-lnk-ctr { border-color: #676767;}
+#my-sub-nav #showcase-ctr.highlight { background: #000;}
+#my-sub-nav #showcase-ctr.highlight a { color: #fff; }
+#my-sub-nav #showcase-ctr.highlight .pbar-lnk-ctr { border-color: #000; }
+#my-sub-nav #pn-mnu-btn { background: #bebebe url(http://l.yimg.com/a/i/us/my/mw/th/white/gsprite_pg_wht_052308.gif) 0 100% repeat-x; }
+#my-sub-nav #my-personalize.hlght #pn-mnu-btn,
+#my-sub-nav #my-personalize.hlght #pn-mnu-btn strong { background: #676767; border-color: #676767; }
+#my-sub-nav #my-personalize-ctr .pbar-lnk-ctr .pbar-link a.arrow { border-left: 1px solid #676767; }
+#my-sub-nav #my-personalize-ctr .pbar-lnk-ctr .pbar-link a.arrow strong { border-left: 1px solid #d0d0d0; }
+#my-sub-nav  .pbar-lnk-ctr .pbar-link a.arrow span { background: url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif) 0px -310px no-repeat; }
+#my-sub-nav #trough-quick-links .pbar-link { background-image: none; }
+#my-sub-nav .pbar-link .mod-collapse,
+  #my-sub-nav .pbar-link .mod-collapse-closed { background: url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif) 0px -310px no-repeat; }
+#my-sub-nav .selected .pbar-lnk-ctr { background-color: #676767; border: none;}
+#my-sub-nav .selected .pbar-lnk-ctr .pbar-link a {  }
+#vsearchtabs li.on a{
+    color:#434343;
+}
+  .inputtext{border:1px solid #f0f0f0;border-color:#7c7c7c #cecece #c3c3c3 #7c7c7c;}
+  #sboxfooter { position: absolute; bottom: .8em; left: 10em; *left: 11em; _bottom: .2em;  } 
+  #sboxfooter .answers {background: transparent url(http://l.yimg.com/a/i/us/my/mw/sprite_through_20110614.gif) no-repeat scroll -400px -120px;padding-left:20px}
+  #sboxfooter .answers a {background:none; font-size:0.8em}
+  #sboxfooter .answers a.yans {font-weight:bold}
+  .btn{color:#000;border:1px solid #999b9a;background:#ce9200 url(http://l.yimg.com/a/i/us/my/mw/gsprite_080509.gif) 0 0px repeat-x;}
+#interstitial{line-height:0;font-size:0;background:#333333;position:absolute;}
+
+body > html #vsearchWrap{ background:none; }
+#vsearchWrap #searchIE{ _filter:none !important; }
+
+/* Override default YUI Container styles to make it look like our .mod stuff for the addedcontentinfo panel*/
+#addedcontentinfo { border: 1px solid #B0BEC7; border-bottom: 1px solid #93a6b4; }
+#addedcontentinfo .hd { border-bottom: 1px solid #aec3d0; background: #eff4f6 url(http://l.yimg.com/a/i/ww/t5/grd-1px.gif) bottom left repeat-x; padding: 3px; margin: 0; color: #000; }
+#addedcontentinfo .bd { background: #FFF9CB; }
+#addedcontentinfo .bd h4 { color: #418900; }
+#addedcontentinfo .close { background: url(http://l.yimg.com/a/i/us/my/bn/x_d.gif) no-repeat; padding-bottom: 2px; padding-right: 5px; }
+
+div.yuimenu a{outline:none;}
+#my-change-layout.yuimenu a {outline:none;}
+#my-personalize-menu.yuimenu li.selected a.selected,
+#my-share-menu.yuimenu li.selected a.selected,
+#my-advanced-settings.yuimenu li.selected a.selected,
+#my-change-layout.yuimenu li.selected a.selected { text-decoration: none; }
+
+/* Loading */
+.loading{margin:0 auto;padding:20px 0;font-size: 92%;color:#444444;text-align:center}
+  /*.loading .progress{margin:auto;height:16px;width:16px;background:url(http://l.yimg.com/a/i/us/my/mw/anim_loading_sm.gif) no-repeat top left;} */
+  .loading p{margin:0;padding:0;}
+  
+  
+  
+
+#my-prop-nav li.t-ft a{background:none}
+#my-prop-nav li a{background:url(http://l.yimg.com/a/i/us/my/mw/sprite_through_20110614.gif) 0 0 no-repeat;}
+
+
+/*Font settings*/
+body{font-family:arial,helvetica,clean,sans-serif;font-size:auto;letter-spacing:normal;word-spacing:normal;}
+body.small {font-size:12px;}
+body.large {font-size:15px;}
+body.x-large {font-size:17px;}
+.btn{font-family:arial;font-size:108%;font-weight:bold;letter-spacing:normal}
+div.yuimenu div.bd ul li.yuimenuitem a { font-weight: bold; }
+.t-mod .hd h2{font-family:arial;font-size:100%;letter-spacing:normal;word-spacing:normal;}
+.t-mod ul li{font-family:arial;font-size:85%;letter-spacing:normal;word-spacing:normal;font-weight:bold}
+.t-mod ul li.t-ft, .t-mod ul li.t-hd{font-weight:normal;}
+ul#cat-list li, ul#cat-list li a:visited{color:#16387c}
+ul#cat-list li, #current-theme, #theme-slider td{text-decoration:none;font-size:95%;_font-size:92%;color:#16387c}
+.cat-on, a.cat-on{font-weight:bold;color:#333}
+.cat-off{font-weight:normal}
+#ynav li.t-ft a{background:none}
+#ynav li.t-ft a.hasIcon{background:url(http://l.yimg.com/a/i/us/my/mw/sprite_through_20110614.gif) 0 0 no-repeat;}
+#ynav li a, #bbYnav ul.ico li a{background:url(http://l.yimg.com/a/i/us/my/mw/sprite_through_20110614.gif) 0 0 no-repeat;padding:4px 0 3px 25px;}
+ 
+/* User Information */
+#my-sub-nav .pbar-lnk-ctr{font-family:arial;font-size:85%;letter-spacing:normal;word-spacing:normal;}
+#my-sub-nav .pbar-lnk-ctr .pbar-link a { font-weight: bold; text-decoration: none; white-space: nowrap; }
+.type_placeholder .csc{color:#444444;}
+.type_placeholder .csc h2{color:#444444;font-weight:bold;font-size:130%;margin-bottom:1em;}
+.nid_bd {color:#444444;background:url(http://us.i1.yimg.com/us.yimg.com/i/us/my/mw/th/white/mast_bg2_wht.gif) 0 0 repeat;}
+#shpd .shp { background: url(http://l.yimg.com/a/i/ww/ydrag.gif); }
+.type_placeholder .csi{background:url(http://l.yimg.com/a/i/us/my/mw/sprite_pg_20090922.gif) 4px -815px no-repeat;}
+
+/* YAP */
+.type_yapwrap .yap-chrome-bar { background-color:none; }
+
+/* col resize */
+#column-drag { display: block; position: absolute; z-index: 100; cursor: e-resize; }
+#my-promo { position: fixed; z-index: 100; bottom:0; heoght:30px; width:100%; background-color:#FFAC00; }
+.ua-ie #column-drag, .ua-ff #column-drag { cursor: col-resize; }
+#c1-space, #c2-space, #c3-space, #c4-space { cursor: e-resize; }
+.ua-ie #c1-space, .ua-ff #c1-space,  .ua-ie #c2-space, .ua-ff #c2-space, .ua-ie #c3-space, .ua-ff #c3-space, .ua-ie #c4-space, .ua-ff #c4-space { cursor: col-resize; }
+
+/* Modules -------------------------------------------------------------------*/
+
+
+.mod .hd h2{font-family:arial;font-size:95%;font-weight:bold;letter-spacing:normal;word-spacing:normal}
+.mod .bd, .mod .ft{font-family:arial;font-size:100%;letter-spacing:normal;word-spacing:normal;font-weight:normal}
+.mod .bd li .age{font:normal 77% arial}
+
+.mod .foot li.on { border:1px solid #BDC0C7;background:#ECECEC  0px 0px repeat-x;color:#333333;}
+.mod .foot li img{ border:1px solid #BDC0C7;}
+.mod .foot li.on a{ color:#333333;}
+.mod .body img{border:1px solid #BDC0C7}
+
+.mod .bullet{background:url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif) 3px -1732px no-repeat;}
+.mod .more,
+.mod .audio,
+.mod .video,
+.mod .slideshow,
+.mod .act-icon,
+.mod .search{ background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0 0 no-repeat; }
+.mod .pbar-icon { background:url(http://l.yimg.com/a/i/us/my/mw/sprite_pg_20090922.gif) 0 0 no-repeat; }
+
+/*module*/
+.mod, #maximized-app-body {border:none #BDC0C7;}
+
+.mod .type_simple .stale-loading, .mod .type_open .stale-loading {
+   background: none repeat scroll 0 0 #F2F2F2;
+   border-bottom:none #BDC0C7;
+}
+
+  .mod .hd{border-bottom:none #BDC0C7;background:#F2F2F2  0px -430px repeat-x;color:#000000 }
+  .mod .modbrdr{border-color:#BDC0C7;}
+  .mod .hd a:link{color:#000000;}
+  .mod .hd a:visited, .mod .hd a:link, .mod .hd a{color:#000000;}
+  .mod .hd .mod-notify {background-color:#000000;}
+  .mod .hd .mod-notify a,.mod .hd .mod-notify span{color:#F2F2F2;}
+  .mod .bd a:link{color:#333333;}
+  .mod .bd a:visited{color:#000000;}
+  .mod .bd .txt-color {color:#444444;}
+  .mod .bd a.txt-color:link {color:#444444;}
+  .mod .bd a.txt-color:visited {color:#444444;}
+  .mod .bd .sub-title{font-weight:bold;color:#333333;} 
+  .mod .bd .sub-title em{font-weight:bold;} 
+  .mod .bd .sub-title a:link, .mod .bd .sub-title a:visited{font-weight:bold;color:#333333;}
+  .mod .bd,
+  .t-mod .bd{color:#444444;}
+  .mod .bd .borderoutline {border-color:#444444;}
+  .mod .bd,
+    .mod .ft{background:none  0 0 repeat;}
+.ua-ie .mod .bd,
+.ua-ie .mod .ft {background:none  0 0 repeat;}
+
+  .mod-icon,
+    .mod-menu,
+    .mod-delete,
+    .mod-collapse,
+    .mod-collapse-closed,
+    .mod-add {text-indent:-9000px;text-decoration:none;}
+  .mod-menu{background-image:url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif); background-repeat: no-repeat;}
+  .mod-refresh{background-image:url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif); background-repeat: no-repeat;}
+  .mod-delete{background-image:url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif); background-repeat: no-repeat;}
+  .mod-collapse,
+  .mod-collapse-closed {background-image: url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif); background-repeat: no-repeat;indent:-9000px;text-decoration:none;}
+  .subhd-collapse,
+  .subhd-collapse-closed { background-image: url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif); background-repeat: no-repeat;text-indent:-9000px;text-decoration:none; }
+.t-shadow{background:#DADADA; opacity:.0; filter:alpha(opacity:0)}
+.ua-ie7 .t-shadow{max-width:1000px;}
+
+/*Module preview*/
+
+#adlg-custom #customizer #cs-body #cs-mod-head { background:#F2F2F2  0px -430px repeat-x; }
+#adlg-custom #customizer #cs-body #cs-mod-head #cs-mod-head-text { color:#000000; }
+#adlg-custom #customizer #cs-body #cs-mod-body { background:none  0 0 repeat; }
+#adlg-custom #customizer #cs-body #cs-mod-body #cs-mod-body-link { color:#333333; }
+#adlg-custom #customizer #cs-body #cs-mod-body #cs-mod-body-text { color:#444444; }
+
+
+/* Module Tabs ---------------------------------------------------------------*/
+
+.mod .bd .mod-tabs {
+    background: none  repeat-x scroll 0px -150px;
+    border-bottom: 1px solid #BDC0C7;
+}
+
+.mod .bd .mod-tabs li a {
+    text-align: center;
+    text-decoration: none;
+    font-size: 92%;
+}
+
+.mod .bd .mod-tabs li a:hover {
+    text-decoration: underline;
+}
+
+.mod .bd .mod-tabs li.first {
+    border-left: 0;
+}
+
+.mod .bd .mod-tabs li {
+    border-style: solid;
+    border-width:1px 1px 0 0;
+    border-color: #BDC0C7;
+}
+
+.mod .bd .mod-tabs .selected {
+    background: none  repeat-x scroll 0px -240px;
+}
+
+.mod .bd .mod-tabs .selected a {
+    font-weight: bold;
+    color:#444444;
+}
+
+.mod .bd .mod-tabs .selected a:hover {
+    text-decoration: none;
+}
+
+.mod .bd .mod-tabs.ymytabsns .last span {
+    border-right: 1px solid #BDC0C7;
+}
+
+.mod-collapse-icon, .mod-expand-icon, .mod-expand-icon-inner {
+	border-top:1px solid #000000;
+	border-bottom:1px solid #000000;
+}
+
+.mod-collapse-icon .rc, .mod-expand-icon .rc, .mod-expand-icon-inner .rc {
+	border-right:1px solid #000000;
+	border-left:1px solid #000000;
+}
+
+.mod-collapse-icon .h, .mod-expand-icon .h{
+	border-top:2px solid #000000;
+}
+
+.mod-expand-icon .v{
+	border-left:2px solid #000000;
+}
+
+#maximized-app-body {
+    background:none  0 0 repeat;
+}
+
+/* Menu ---------------------------------------------------------------------*/
+
+.ymy-menu {
+    border: 1px solid #808080;
+    background-color: #fff;
+    font-weight: bold;
+}
+
+.ymy-menu li a,
+.ymy-menu li a:visited {
+    color: #000;
+}
+
+.ymy-menu li a:hover {
+    text-decoration: none;
+    background-color: #B3D4FF;
+}
+
+.ymy-menu .sep {
+    border-bottom: 1px solid #CCC;
+}
+
+.ymy-menu .checked .checked {
+    background: url(http://l.yimg.com/a/i/us/my/mw/sprite_pg_20090922.gif) 0 -388px no-repeat;
+}
+
+/*
+#submasthead #pagenav ul li span.pipe { border-left:1px solid #dbdbdb; border-right: 1px solid #ffffff; }
+#submasthead #pagenav li.current { background-color: #e6e6e6; }
+#submasthead #pagenav li.current a.delete{ background-image: url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif); }
+#submasthead #pagenav li.current span.pagelink { background-color: #e6e6e6; }
+#submasthead #pagenav li.current a.page-name { color: #ededed; }
+*/
+
+
+/* Help link of att*/
+/*#submasthead #pagenav li.help-box em{background-image:url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif);background-position:0px 0px; top:1px;}
+#submasthead #pagenav li.help-box a:hover,#submasthead #pagenav li.help-box a.expand-menu {border:1px solid #BDC0C7;}
+#submasthead #pagenav li.help-box a:hover em{background-position:0px -64px;top:1px; }
+#submasthead #pagenav li.help-box a.expand-menu em{background-position: 0px -128px; top:1px; }
+*/
+ 
+
+/* Masthead -----------------------------------------------------------------*/
+#masthead-bg {background:#f7f7f7 url(http://l.yimg.com/a/i/us/my/mw/th/white/gsprite_pg_wht_052308.gif) 0 0 repeat;}
+
+/*PAGE PREVIEW*/
+#adlg-custom #customizer #cs-head { background:#f7f7f7 url(http://l.yimg.com/a/i/us/my/mw/th/white/gsprite_pg_wht_052308.gif) 0 0 repeat-x; }
+#adlg-custom #customizer #cs-head #cs-tab,
+#adlg-custom #customizer #cs-head #cs-nav { background-color: #bebebe; }
+
+#masthead .logo-link {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+#masthead h1.brandname,
+#masthead h1.brandname img {
+    width:241px;
+    height:39px;
+}
+
+
+.ua-ie6 #masthead h1.brandname {
+    _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src='http://l.yimg.com/a/i/brand/purplelogo/my/us.png');
+}
+
+#masthead hr#logo-spacer {
+    ;
+}
+
+#masthead #help-links {
+    font-family:arial;
+    font-weight:normal;
+    font-size:85%;
+    letter-spacing:normal;
+    word-spacing:normal;
+}
+
+#masthead{background:transparent;}
+#masthead #help-links li a {color:#255ca1}
+#masthead #help-links li {color:#434343}
+#masthead #ypromo li a {color:#255ca1;font-family:arial;font-weight:normal;font-size:85%;letter-spacing:normal;word-spacing:normal;}
+#masthead #ypromo li {color:#434343}
+#masthead span.pipe{border-left:1px solid #cfcfcf;border-right:1px solid #ffffff}
+#submasthead span.pipe { border-left:1px solid #dbdbdb; border-right: 1px solid #ffffff; }
+#search span.pipe{border-left:1px solid #dbdbdb;border-right:1px solid #ffffff;zoom:1;display:inline;}
+#search a{color:#255ba1}
+#search .btn {cursor:pointer; }
+#search #searchbox { margin-right: 8px }
+#search #vsearch_form_bt #searchbox { margin-right: 3px }
+.ua-ie8 #search #searchbox { width: 32.5em; }
+#masthead.min #search #searchbox { margin-right: 0 }
+#search #p { padding-left: 0.5em; font-weight:bold; }
+.ua-ie8 #search #p { padding-left: 0; }
+#masthead.min #search #p { padding-left: 0; font-weight:normal; }
+#search {color:#434343}
+#vsearchtabs li.has-menu em{ /*Separated because IE is upset without three different properties*/ background-image: url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif); background-repeat: no-repeat; font:0/0 Arial; }
+#vsearchmenu.yuimenu ,#help-menu.yuimenu{background-color:#fff;border:1px solid #889aa7;}
+#vsearchmenu.yuimenu div.bd ,#help-menu.yuimenu div.bd{border:none;}
+#vsearchmenu.yuimenu li.selected ,#help-menu.yuimenu li.selected{background:#889aa7;}
+#vsearchmenu.yuimenu a:link, 
+#vsearchmenu.yuimenu a:visited,#help-menu.yuimenu a:link, #help-menu.yuimenu a:visited {color:#333;}
+#vsearchmenu.yuimenu a{outline:none; font-weight: normal;}
+#vsearchmenu.yuimenu li.selected a.selected ,#help-menu.yuimenu li.selected a.selected{color:#fff;text-decoration:none;}
+#vsearchtabs li a{font-family:arial;font-size:93%;letter-spacing:normal;margin:1px;}
+#vsearchtabs li.on{font-weight:bold;}
+#vsearchtabs li span.pipe{border-left:1px solid #dbdbdb;border-right:1px solid #ffffff}
+.searchlabel{font-family:arial;font-size:132%;font-weight:bold;letter-spacing:normal}
+
+/*Top-left image (behind logo)*/
+#masthead-wrap {
+    height:100%;
+    background: none;
+    _background: none;
+    _filter: "";
+}
+#masthead #help-links li span.last-update{color:#255ca1}
+/* Second logo Masthead -------------------------------------------------------*/
+
+#masthead .sub-brand h2 {
+    width: 106px;
+    height: 28px;
+    
+    background: url(http://l.yimg.com/a/i/us/my/mw/th/attnew/pby_tall_071509.png) no-repeat;
+    _background: none;
+    _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=crop, src='http://l.yimg.com/a/i/us/my/mw/th/attnew/pby_tall_071509.png');   
+}
+
+#masthead.min .sub-brand h2 {
+    width: 81px;
+    height: 21px;
+    background: url(http://l.yimg.com/a/i/us/my/mw/th/attnew/pby_small_071509.png) no-repeat;
+    _background: none;
+    _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=crop, src='http://l.yimg.com/a/i/us/my/mw/th/attnew/pby_small_071509.png');
+}
+
+/* Minimized Masthead -------------------------------------------------------*/
+
+html > body #masthead.min h1.brandname{
+    background:url(http://l.yimg.com/a/i/brand/purplelogo/my/sm/us.png) no-repeat;
+}
+
+html > body #masthead h1.brandname{
+    background:url(http://l.yimg.com/a/i/brand/purplelogo/my/us.png) no-repeat;
+}
+
+#masthead.min #search .btn,
+#masthead.min #search #p,
+#masthead.min #search .searchlabel{
+    font-family:arial;
+    font-size:85%;
+    letter-spacing:normal;
+    word-spacing:normal; 
+}
+
+
+#masthead.min h1.brandname,
+#masthead.min h1.brandname img {
+    width:175px;
+    height:25px;
+}
+
+#masthead.min h1.brandname {
+    _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src='http://l.yimg.com/a/i/brand/purplelogo/my/sm/us.png');
+}
+
+#masthead.min hr#logo-spacer {
+    ;
+}
+
+#masthead.min {
+   /*  background:#f7f7f7 url(http://l.yimg.com/a/i/us/my/mw/th/white/gsprite_pg_wht_052308.gif) 0 -20px repeat-x;
+   border-bottom:1px solid #dbdbdb;*/
+}
+
+#masthead.min #search .btn,
+#masthead.min #search #p,
+#masthead.min #search .searchlabel{font-family:arial;font-size:85%;letter-spacing:normal;word-spacing:normal; }
+
+/* Submasthead --------------------------------------------------------------*/
+
+#submasthead { 
+    /*background:  url(http://l.yimg.com/a/i/us/my/mw/th/white/gsprite_pg_wht_052308.gif) 0px -251px repeat-x;*/
+    background:transparent;
+    border-bottom: 1px solid #aaaaaa;
+}
+
+#submasthead ul li a {
+   /* color: #ffffff;*/
+}
+
+#submasthead .help em,
+#submasthead .pginfo_menu em {
+    background: url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif) no-repeat;
+}
+
+#submasthead .help a:hover,
+#submasthead .help .mnu,
+#submasthead .pginfo_menu a:hover,
+#submasthead .pginfo_menu.opened a {
+    text-decoration: none;
+    border: 1px solid #BDC0C7;
+}
+/* Quicklinks -----------------------------*/
+#submasthead a.quicklinks {
+    background:none;
+    /*padding-top:1px;
+    padding-bottom:1px;*/
+    text-decoration:none;
+    color: #255ca1;
+    outline:none;
+}
+#submasthead a.quicklinks span h3 {
+    font-size:85%;
+    font-weight:bold;
+    
+}
+
+#submasthead a.quicklinks span em.norgie {
+    background: url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif) 0 -306px no-repeat;
+}
+
+#submasthead a.quicklinks:hover {
+    background:#e6e6e6 url(http://l.yimg.com/a/i/us/my/mw/th/white/gsprite_pg_wht_052308.gif) 0px -400px repeat-x;
+    border-top:1px solid #cfcfcf;
+    border-bottom:1px solid #cfcfcf;
+}
+
+#submasthead a.quicklinks:hover span {
+    border-left:1px solid #cfcfcf;
+    border-right:1px solid #cfcfcf;
+}
+#submasthead a.quicklinks:visited {
+    color: #255ca1;
+}
+/* quicklinks open --------------------*/
+#submasthead a.open,
+#submasthead a.open:hover {
+    background:#ffffff;
+    border-top:1px solid #BDC0C7;
+    border-bottom:none;
+    color:#255ca1;
+    outline:none;
+}
+#submasthead a.open span,
+#submasthead a.open:hover span {
+    border-left:1px solid #BDC0C7;
+    border-right:1px solid #BDC0C7;
+}
+#submasthead a.open span em.norgie {
+    background: url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif) 0 -360px no-repeat; 
+}
+
+/* quicklinks pinned --------------------*/
+
+#submasthead a.pinned,
+#submasthead a.pinned:hover {
+    visibility:hidden;
+    background:#ffffff;
+    border-top:1px solid #cfcfcf;
+    border-bottom:1px solid #cfcfcf;
+    color:#255ca1;
+}
+#submasthead a.pinned span,
+#submasthead a.pinned:hover span {
+    border-left:1px solid #cfcfcf;
+    border-right:1px solid #cfcfcf;
+}
+
+
+
+/* Page Navigation ---------------------------------------------------------*/
+
+#pagenav li h2 {
+    color: #255ca1;
+}
+
+#pagenav h2 {
+    font-family:arial;
+    font-size:122%;
+    letter-spacing:normal;
+    word-spacing:normal;
+    font-weight:bold;
+}
+
+#pagenav li {
+    font-family:arial;
+    font-size:85%;
+    letter-spacing:normal;
+    word-spacing:normal;
+    background-color: #e6e6e6;
+}
+#pagenav li .pg {
+    background-color: #e6e6e6;
+}
+
+#pagenav li a,
+#pagenav li a:visited {
+    text-decoration:none;
+    color: #255ca1;
+}
+
+#pagenav li.current {
+    
+    border-left: 1px solid #aaaaaa;
+    border-right: 1px solid #aaaaaa;
+}
+#pagenav li.current .pg {
+    border-top: 1px solid #aaaaaa;
+    margin-top: -2px;
+}
+
+#pagenav li.current,
+#pagenav li.current .pg,
+#pagenav li.current .pg .pglnk {
+    background:#bebebe url(http://l.yimg.com/a/i/us/my/mw/th/white/gsprite_pg_wht_052308.gif) 0 -250px repeat-x;
+    /*background-color: #e6e6e6;*/
+}
+
+#pagenav li.current a,
+#pagenav #top li.current a,
+#pagenav #bottom li.current a {
+    color: #ededed;
+    font-weight: bold;
+}
+
+#pagenav li.current a.delete {
+    background: url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif) 0px -188px no-repeat;
+}
+
+#pagenav li.placer {
+	background-color: #aaaaaa;
+}
+
+/*-------------------------------------------*/
+#pagenav li.current a.delete:hover { 
+    background-position: 0px -247px; 
+}
+
+#pagenav li.add-page {
+    background:none;
+}
+
+#pagenav li.add-page a {
+    /*border: 1px solid #dbdbdb;*/
+    color: #255ca1;
+}
+#pagenav li.add-page a h3 {
+    color: #255ca1;
+}
+
+#pagenav li.add-page a:hover {
+    border-top:1px solid #cfcfcf;
+    border-bottom:1px solid #cfcfcf;
+    background:#e6e6e6 url(http://l.yimg.com/a/i/us/my/mw/th/white/gsprite_pg_wht_052308.gif) 0 -400px repeat-x;
+}
+
+#pagenav li.add-page a:hover h3 {
+    border-left:1px solid #cfcfcf;
+    border-right:1px solid #cfcfcf;
+}
+
+#page-name-textbox { 
+    font-size:85%; 
+    font-weight: bold; 
+    border-width: 0;
+}
+
+#pagenav .page-nav-drop-target {
+    background:#333333;
+}
+
+#pagenav .page-nav-drop-target .pglnk .pgnm {
+    color:#000000;
+}
+
+/* Page Options -------------------------------------------------------------*/
+#pageoptions {
+    background-color: #bebebe;
+    border-bottom:1px solid #aaaaaa;
+}
+#pageoptions ul.jawoptions a,
+#pageoptions ul.jawoptions a:visited,
+#pageoptions ul.jawoptions a:hover,
+#maximized-app-header {
+    color: #ffffff;
+    font-weight: bold;
+}
+#pageoptions ul.jawoptions li a:hover,
+#pageoptions ul.jawoptions li a:hover span {
+    background:#d0d0d0;
+}
+#pageoptions ul.vinfo li a,
+#pageoptions ul.vinfo li a:visited,
+#pageoptions ul.vinfo li a:hover {
+    color: #ffffff;
+}
+#pageoptions ul.vinfo span {
+        background:#d0d0d0;
+}
+#pageoptions ul.vinfo {
+    color:#ededed;
+}
+#pageoptions ul.jawoptions li.selected a:hover,
+#pageoptions ul.jawoptions li.selected a:hover span,
+#pageoptions ul.jawoptions li.selected a,
+#pageoptions ul.jawoptions li.selected a span {
+    background:#676767;
+}
+.ua-ie8 #pageoptions ul.jawoptions li a span {
+   font-size:100%;
+}
+
+#pageoptions ul.jawoptions li a span em {
+    background: transparent url(http://l.yimg.com/a/i/us/my/mw/sprite_pg_20090922.gif) no-repeat;
+}
+#pageoptions ul.jawoptions li a span h3 {
+    font-size:85%;
+    font-weight:bold;
+    background: transparent url(http://l.yimg.com/a/i/us/my/mw/sprite_pg_20090922.gif) no-repeat;
+}
+
+#pageoptions ul.info {
+    color:#ededed;
+}
+
+
+/* Page Information ---------------------------------------------------------*/
+
+#pageinfo .signout {
+    font-weight: normal;
+}
+
+#pageinfo li {
+    color: #434343;
+}
+#pageinfo li a {
+    color: #255ca1;
+}
+#pageinfo li span.pipe {
+    border-left-color: #cfcfcf;
+    border-right-color: #ffffff;
+}
+#pageinfo .avegner-cta-arrow{
+    color: #255ca1;
+    font-weight: bold;
+    margin: -2px -2px 0px 0px;
+    padding-right: 0;
+    display:none;
+}
+
+.avng-cta-tip h3{
+    font-weight:bold;
+}
+
+.avng-cta-tip a{
+    text-decoration:none;
+    color:#333333;
+}
+
+/* What's New Tag -----------------------------------------------------------*/
+
+#pagenav .newmy {
+    font-size:77%;  
+    letter-spacing:0.07em;
+    color: #F07400;
+}
+
+.dark-hue #pagenav .newmy {
+    color: #fff;
+}
+
+.ua-mac.ua-ff #pagenav li .newmy {
+    font-size:85%;  
+}
+
+
+/* Font Sizes ---------------------------------------------------------------*/
+
+.x-small{
+    font-size:77%;
+    letter-spacing:normal;
+}
+
+.small{
+    font-size:85%;
+    letter-spacing:normal;
+}
+
+.med-small {
+    font-size:92%;
+    letter-spacing:normal;
+}
+
+.medium{
+    font-size:100%;
+    letter-spacing:normal;
+}
+
+.med-large{
+    font-size:107%;
+    letter-spacing:normal;
+}
+
+.large{
+    font-size:114%;
+    letter-spacing:normal;
+}
+
+.x-large{
+    font-size:122%;
+    letter-spacing:normal;
+}
+
+.x2-large{
+    font-size:131%;
+    letter-spacing:normal;
+}
+
+.x3-large{
+    font-size:138.5%;
+    letter-spacing:normal;
+}
+
+/* Font Weight --------------------------------------------------------------*/
+
+.strong {
+    font-weight:bold;
+}
+
+/* Accessbility --------------------------------------------------------------*/
+
+.hide-offscreen {
+    position: absolute;
+    left: -999em;
+}
+
+.hide-textindent {
+    text-indent: -999em;
+} 
+
+/* Background Images --------------------------------------------------------*/
+
+.y-glbl-mod-grad, .mod-bg-elements-img {
+    background:url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif) no-repeat;
+}
+
+.y-glbl-universal-grad, .framework-img{
+    background:url(http://l.yimg.com/a/i/us/my/mw/gsprite_080509.gif) no-repeat;
+}
+
+.y-glbl-mod-controls, .elements-img{
+    background:url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif) no-repeat;
+}
+
+.y-glbl-ltdrk, .mod-action-icons{
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) no-repeat;
+}
+
+.y-glbl-universal, .util-img{
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_pg_20090922.gif) no-repeat; 
+}
+
+/* Colors/Borders/Backgrounds -----------------------------------------------*/
+
+.modbg,
+.mod-bg {background:#CCCFD5 url(http://l.yimg.com/a/i/us/my/th/thm/bg_noise.gif) 0 -1100px repeat;}
+.mod .mod_bdr,
+.mod .mod-bdr { border:1px solid #BDC0C7; }
+.mod .mod-alt-bdr { border:1px solid none; }
+.mod .mod_bgcolor,
+.mod .mod-bgcolor { background:none; }
+.mod .mod_bg_img,
+.mod .mod-bg-img { background: 0 100% repeat-x; }
+.mod .lnk_clr,
+.mod .lnk-clr,
+.mod .link-color { color:#333333; }
+.mod .sub-hd{background:#ECECEC  0px 0px repeat-x;color:#333333;}
+  .mod .sub-hd a:link, .mod .sub-hd a:visited, .mod .sub-hd a{color:#333333;}
+.mod .alt-bg-color{background:none;}
+.mod a.alt-text-color,
+.mod .alt-text-color{color:#444444;}
+.mod .reverse-bg-color{background:#333333;}
+.mod a.text-color,
+.mod .text-color { color: #444444; }
+.mod a.reverse-text-color,
+.mod .reverse-text-color{color:none;}
+.mod .divider{border:1px solid #BDC0C7;} 
+  .mod .divider-l{border-left:1px solid #BDC0C7;}
+  .mod .divider-r{border-right:1px solid #BDC0C7;}
+  .mod .divider-t{border-top:1px solid #BDC0C7;}
+  .mod .divider-b{border-bottom:1px solid #BDC0C7;}
+.mod .cta-btn,.mod .cancel-btn{border:1px solid #BDC0C7;background: 0 -330px repeat-x;color:#444444;}
+.mod .line-h{border:1px solid #BDC0C7;}
+  .mod .line-h-t{border-top:1px solid #BDC0C7;}
+  .mod .line-h-r{border-right:1px solid #BDC0C7;}
+  .mod .line-h-b{border-bottom:1px solid #BDC0C7;}
+  .mod .line-h-l{border-left:1px solid #BDC0C7;}
+.mod .line-l{border:1px solid #BDC0C7;}
+  .mod .line-l-t{border-top:1px solid #BDC0C7;}
+  .mod .line-l-r{border-right:1px solid #BDC0C7;}
+  .mod .line-l-b{border-bottom:1px solid #BDC0C7;}
+  .mod .line-l-l{border-left:1px solid #BDC0C7;}
+  
+  
+/* Icons --------------------------------------------------------------------*/
+
+.mod .ymy-bubble{
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px 0px no-repeat;
+}
+
+.dark-hue .mod .ymy-bubble {
+    background-position: 0px -61px;
+}
+
+.mod .ymy-bubble-star{
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -123px no-repeat;
+}
+
+.dark-hue .mod .ymy-bubble-star{
+    background-position: 0px -187px;
+}
+
+.mod .ymy-increase {
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -247px no-repeat;
+}
+
+.dark-hue .mod .ymy-increase {
+    background-position: 0px -307px;
+}
+
+.mod .ymy-decrease {
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -367px no-repeat;
+}
+
+.dark-hue .mod .ymy-decrease {
+    background-position: 0px -427px;
+}
+
+.mod .ymy-add {
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -487px no-repeat;
+}
+
+.dark-hue .mod .ymy-add {
+    background-position: 0px -547px;
+}
+
+.mod .ymy-delete{
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -607px no-repeat;
+}
+
+.dark-hue .mod .ymy-delete {
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -667px no-repeat;
+}
+
+.mod .ymy-flag{
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -727px no-repeat;
+}
+
+.dark-hue .mod .ymy-flag {
+    background-position: 0px -787px;
+}
+
+.mod .ymy-video{
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -847px no-repeat;
+}
+
+.dark-hue .mod .ymy-video {
+    background-position: 0px -906px;
+}
+
+.mod .ymy-audio{
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -965px no-repeat;
+}
+
+.dark-hue .mod .ymy-audio {
+    background-position: 0px -1027px;
+}
+
+.mod .ymy-photo{
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -1089px no-repeat;
+}
+
+.dark-hue .mod .ymy-photo {
+    background-position: 0px -1149px; 
+}
+
+.mod .ymy-search {
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -1209px no-repeat;
+}
+
+.dark-hue .mod .ymy-search {
+    background-position: 0px -1272px;
+}
+
+.mod .ymy-mobile {
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -1335px no-repeat;
+}
+
+.dark-hue .mod .ymy-mobile {
+    background-position: 0px -1397px;
+}
+
+.mod .ymy-mail {
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -1459px no-repeat;
+}
+
+.dark-hue .mod .ymy-mail {
+    background-position: 0px -1518px;
+}
+
+.mod .ymy-chat {
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -1577px no-repeat;
+}
+
+.dark-hue .mod .ymy-chat {
+    background-position: 0px -1637px;
+}
+
+.mod .ymy-story {
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -1697px no-repeat;
+}
+
+.dark-hue .mod .ymy-story {
+    background-position: 0px -1757px;
+}
+
+.mod .ymy-docs {
+    background:url(http://l.yimg.com/a/i/us/my/mw/sprite_ltdrk_20090915.gif) 0px -1817px no-repeat;
+}
+
+.dark-hue .mod .ymy-docs {
+    background-position: 0px -1877px;
+}
+
+.mod .ymy-bullet {
+    background: url(http://l.yimg.com/a/i/us/my/mw/th/sprite_zorro_081208.gif) 3px -1732px no-repeat;
+}
+
+#column-drag { background-color:#444444; }
+
+/* Footer --------------------------------------------------------------------*/
+
+#ft {
+    color:#444444;
+    background:none  0 0 repeat;
+}
+
+#ft .ymy-pipedlist .pipe { 
+    border-left:1px solid #444444;
+    border-right:none;
+}
+
+#ft a{
+    color:#333333;
+}
+
+#ft .myi {
+    font-weight: bold;
+}
+
+
+#subjaw-inner {
+    /*background: url(http://l.yimg.com/a/i/us/my/mw/jaw/jaw_watermark2.png) center top no-repeat;
+    _background: none;
+    _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://l.yimg.com/a/i/us/my/mw/jaw/jaw_watermark2.png', sizingMethod='crop');*/
+}    #adlg-custom #custom-dlg.dark div.custom-elem ul li span.link span span.logocolor { background-color:white; }
+#adlg-custom #custom-dlg div.custom-elem ul li span.link span span.logocolor { background-color:purple; }.type_linkedin #card{
+    border: 1px solid #BDC0C7;
+    -moz-box-shadow: 1px 1px 1px #BDC0C7;
+    -webkit-box-shadow: 1px 1px 1px #BDC0C7;
+}
+.type_linkedin .tab-header .top-div ul.top-tabs li.top-tab {
+    border-width: 1px 1px 0 1px;
+    border-left: 1px solid #BDC0C7;
+} </style>
+             <style id="save-style"></style><style id="tmp-style"></style><style id="custom-style"></style>            </head>            <body id="my-yahoo" class="yui-skin-sam light-hue dark-logo ">
+
+    <!--START SKY & CLOUD LAYER-->
+    <div id="layout-sky"></div>
+    <div id="layout-cloud"></div>
+    <!--END SKY & CLOUD LAYER-->                <!-- Begin doc div -->
+<div id="doc">
+    <!-- table necessary for property stretching of layout-->
+    <table width="100%"><tr><td>        <!-- Begin hd div -->
+<div id="hd"><div id="masthead-bg"><div id="masthead-wrap"><div id="uh-wraper"><style>#yUnivHead div#yuhead-hd {height:20px;padding-bottom:0px;}
+#yUnivHead div#yuhead-hd{padding-bottom:0px;}
+#yUnivHead div#yuhead-bd{padding:0;}
+#yUnivHead div#yuhead-search {display:none;}
+#yUnivHead .yucs-trending-anim .yucs-trending-anim-fade {background:none !important;}
+#yUnivHead .yucs-trending-anim .yucs-trending-anim-fade a {position:relative;}
+#yUnivHead {background:transparent;position:static;}
+#yUnivHead li.yucs-notifications ul li a {color: #707070
+	!important;}</style><div id="yUnivHead" class="yucs-en-us">    <a
+		href="#yuhead-search" class="yucs-skipto-search yucs-activate">Skip to
+		search.</a>        <div id="yuhead-hd" class="yuhead-clearfix">
+		<div id="yuhead-mepanel-cont">            <ul id="yuhead-mepanel"><li
+				id="yuhead-username" class="yucs-menu yuhead-nodivide
+				yuhead-nopad yucs-um-activate">    <a class="yuhead-firstname
+					yltasis" aria-haspopup="true" rel="nofollow"
+					target="_top"
+					href="http://us.lrd.yahoo.com/_ylt=Ag4OXXc4_MugXt03EquG8XdG2vAI/RV=1/RE=1326268098/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=2/RU=aHR0cDovL3Byb2ZpbGUueWFob28uY29tLw--/RS=^ADAoQ7sbXbqJtSh2WhfamzgM_3hGF4-">
+					<span class="yucs-avatar yucs-av-activate"
+						data-user="Eric"     data-prof="PNG"
+						data-crumb="AhDdxKZIau2"
+						data-guid="63LWL73ZHYZTPMTMABKT2ISUME"></span>
+					<span class="yuhead-hi">Hi,&nbsp;</span><span
+						class="yuhead-name">Eric</span>    <span
+						class="yucs-menu-access sp yuhead-bullet-down"></span>
+</a>    <ul id="yuhead-useroptions" class="yucs-menu-left hide">        <li>
+<a
+	href="http://us.lrd.yahoo.com/_ylt=AgW6ZUKSOnT.PJwZyCnT1epG2vAI/RV=1/RE=1326268098/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=2/RU=aHR0cDovL3Byb2ZpbGUueWFob28uY29tLw--/RS=^ADAoQ7sbXbqJtSh2WhfamzgM_3hGF4-"
+	target="_top"        rel="nofollow">        Profile        </a>        </li>
+<li>        <a
+	href="https://us.lrd.yahoo.com/_ylt=Ap5ZnYAUuDLtrfWPy44bl5NG2vAI/RV=1/RE=1326268098/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=2/RU=aHR0cHM6Ly9lZGl0LnlhaG9vLmNvbS9tYzIuMC9ldmFsX3Byb2ZpbGU_LmludGw9dXMmLmxhbmc9ZW4tVVMmLmRvbmU9aHR0cDovL215LnlhaG9vLmNvbS9wLzcuaHRtbCZhbXA7LnNyYz1teSZhbXA7LmludGw9dXMmYW1wOy5sYW5nPWVuLVVT/RS=^ADAXzQLfYbJEZWUTcPxu3oFbMy5o6s-"
+	target="_top"        rel="nofollow">        Account Info        </a>
+</li>                <li class="last-child">        You are signed in as: <span
+class="yuhead-yid">demouser</span>        </li>    </ul></li><li id="yuhead-me-signout" class="yuhead-me"><a href="http://us.lrd.yahoo.com/_ylt=AuJBI5qKcthy9x5ftY_ef9xG2vAI/RV=1/RE=1326268098/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=2/RU=aHR0cDovL2xvZ2luLnlhaG9vLmNvbS9jb25maWcvbG9naW4_bG9nb3V0PTEmLmRpcmVjdD0yJi5kb25lPWh0dHA6Ly93d3cueWFob28uY29tJmFtcDsuc3JjPW15JmFtcDsuaW50bD11cyZhbXA7Lmxhbmc9ZW4tVVM-/RS=^ADAesH64mlPsRI12NxyUcjnIXbrohY-" target="_top" rel="nofollow">    Sign Out</a></li>    <li class="yuhead-me"><a href="http://us.lrd.yahoo.com/_ylt=AhBNn0C1Bwx85rv7etpWMY9G2vAI/RV=1/RE=1326268098/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=2/RU=aHR0cDovL2hlbHAueWFob28uY29tLy9sL3VzL3lhaG9vL215Lw--/RS=^ADAUBbDy9G3RulDe6NOsUD45Bq5e6I-" rel="nofollow" target="_top">Help</a></li></ul>        </div>        <div id="yuhead-promo"><a href="http://us.lrd.yahoo.com/SIG=112cgufir;_ylt=AkAlxFVSdoO1y1ClQym0CrpG2vAI/**http%3A//www.yahoo.com/bin/set" target="_top" rel="nofollow">Make Y! My Homepage<abbr title="Yahoo!"></abbr></a></div>        <div id="yuhead-com-links-cont">            <ul id="yuhead-com-links">                <li class="yucs-notifications yucs-notif-activate yuhead-com-link-item">    <a class="ynotif-control yltasis" href="#" rel="nofollow" aria-haspopup="true" title="Notifications" role="button">        <span class="sp ynotif-ico-bell"></span>        <span class="ynotif-notif-count-con hide">            <span class="ynotif-notif-count"></span>        </span>    </a>    <div class="yucs-notif-panel hide"         data-ylt-bell="/;_ylt=ArLEmqATLeFE6ltot.7COdRG2vAI"        data-ylt-profile="/;_ylt=AoPJFoks1GhSiQFrypR6IftG2vAI"        data-ylt-app="/;_ylt=AvBVLxHsSdgQRlpMnB7aTjRG2vAI"        data-ylt-cta="/;_ylt=AjvGvEQzJcLxji8uRzU.kf5G2vAI"        data-ylt-pageurl="/;_ylt=AkkG81lgyeVYxd8Z0NGiWVVG2vAI"          data-guid="63LWL73ZHYZTPMTMABKT2ISUME"        data-crumb="AhDdxKZIau2"        data-mode="2"        data-pagesize="10"        data-view-more-txt="View More"        data-notif-user="A Yahoo! user"        data-intl="en-US"        data-https="0"        data-yql-env=""        data-dictPath="http://l.yimg.com/kx/ucs/notif_v2/js/91/"        data-dictPathHttps="https://s.yimg.com/kx/ucs/notif_v2/js/91/"        data-jsPath="http://l.yimg.com/kx/ucs/notif_v2/js/91/"        data-jsPathHttps:="https://s.yimg.com/kx/ucs/notif_v2/js/91/"        data-settings-tooltip="Settings"        data-app-aria-txt="App Icon"        data-view-all-txt="See All Notifications"        data-view-url="http://pulse.yahoo.com/y/notifications"        data-no-items-txt="There are currently no items."        data-no-notif-txt="You have no notifications."        data-get-notif-txt="Receive notifications when you comment or discuss content with friends on Yahoo!"        data-try-notif-txt="Learn more"        data-try-notif-link="http://help.yahoo.com//l/us/yahoo/comments/notifications/pnotification-03.html"        data-ylt-try-notif="/;_ylt=AtZDdIkoXpsbtUpiUcTtb3BG2vAI"         data-loading-txt="Loading..."        data-error-unavail-txt="Notifications are temporarily unavailable. Please try again later.">        <div class="yucs-notif-title-bar yuhead-clearfix">            <span class="yucs-notif-panel-title">Notifications</span>        </div>        <ul class="yucs-notif-items-panel" role="menu">        </ul>    </div></li>                <li class="yuhead-com-link-item">    <a class="sp yuhead-ico-mail" href="http://us.lrd.yahoo.com/_ylt=AiS1GhOQx7rzRIPTxxsVCoVG2vAI/RV=1/RE=1326268098/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=2/RU=aHR0cDovL21haWwueWFob28uY29tLz8uaW50bD11cyYubGFuZz1lbi1VUw--/RS=^ADArdiiLXr7Xm3ggiusAQ6ozWaiKUw-" rel="nofollow" target="_top">Mail<span class="yucs-activate yucs-mail-count hide" data-mc-crumb="2vlL7s8KUeA"></span></a></li><li class="yuhead-com-link-item">    <a href="http://my.yahoo.com/;_ylt=Agh8CY5InJvaf5SlvAPLI4hG2vAI"     rel="nofollow"     target="_top">   My Y!    </a></li><li id="yuhead-com-home"><a class="sp yuhead-ico-home" href="http://us.lrd.yahoo.com/_ylt=AuS_X_3h_34z0WETrnCJfrdG2vAI/RV=1/RE=1326268098/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=2/RU=aHR0cDovL3d3dy55YWhvby5jb20v/RS=^ADAu3ASCp5hC.Xcf7Vm_Cr3LfRk7sQ-" rel="nofollow" target="_top">Yahoo!</a></li>            </ul>        </div>    </div>    <div id="yuhead-bd" class="yuhead-clearfix">        <div id="yuhead-search">        <div id="yuhead-sform-cont" class="yuhead-s-web yuhead-search-form">            </div>    </div>    </div>                <!-- s2s --></div></div>    <!--Start masthead -->
+    <div id="masthead" class=""><table border=0 id="masthead-layout"><tr><td id="logo-column"><h1 class="brandname"><span class="a11y">My Yahoo!</span></h1><!--hr id="logo-spacer" /--></td><td class="search-cell"><div id="vsearchWrap">
+<div id="searchIE">
+</div>
+<img src="http://l.yimg.com/a/i/us/my/mw/trans.gif" id="searchother" alt="">
+<div id="search"  class='metro'  >
+  <div class="wrap">
+    <ul id="vsearchtabs"><li id="my-vsearch-0" class="searchtab on " ymy-fr="my-myy"><a id="my-vsearch0-link" style="zoom:1" href="http://search.yahoo.com/search;_ylt=AqVi4zGswNsNT1D9jKMBAs9G2vAI"  class="web" title="Web Search">Web</a></li><li id="my-vsearch-1" class="searchtab  " ymy-fr="my-myy"><a id="my-vsearch1-link" style="zoom:1" href="http://us.lrd.yahoo.com/_ylt=AjUwI9Eqpc.._xzx8zz34qpG2vAI/RV=1/RE=1326268101/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=3/RU=aHR0cDovL2ltYWdlcy5zZWFyY2gueWFob28uY29tL3NlYXJjaC9pbWFnZXM-/RS=^ADA2DZejXYD0LOrRNlxaGJJuUrdUvU-"  class="images" title="Images Search">Images</a></li><li id="my-vsearch-2" class="searchtab  " ymy-fr="my-myy"><a id="my-vsearch2-link" style="zoom:1" href="http://us.lrd.yahoo.com/_ylt=AmH58a3MCh1uMND2p9_Xl9hG2vAI/RV=1/RE=1326268101/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=3/RU=aHR0cDovL3ZpZGVvLnNlYXJjaC55YWhvby5jb20vc2VhcmNoL3ZpZGVv/RS=^ADATqr.B0K.RmCXBca.JsmoMgZH7S8-"  class="video" title="Video Search">Video</a></li><li id="my-vsearch-3" class="searchtab  local" ymy-fr="my-myy"><a id="my-vsearch3-link" style="zoom:1" href="http://local.yahoo.com/results;_ylt=AsNfmA6XK14o7TQqToAdukFG2vAI"  class="local" title="Local Search">Local</a></li><li id="my-vsearch-4" class="searchtab  " ymy-fr="my-myy"><a id="my-vsearch4-link" style="zoom:1" href="http://search.shopping.yahoo.com/search;_ylt=AoP63XBJs1JdQPHqPKdN.qFG2vAI"  class="shopping" title="Shopping Search">Shopping</a></li><li id="my-vsearch-more" class="searchtab  has-menu " ymy-fr="my-myy"><a id="my-vsearchmore-link" style="zoom:1" href="http://search.yahoo.com/search;_ylt=AqVi4zGswNsNT1D9jKMBAs9G2vAI"  class="more<em>&raquo;</em>" title="">more<em>&raquo;</em></a></li></ul>
+
+                <div id="my-vsearch-body" class="on search_tab_body metro">
+                    <form name="sf1" id="sf1_form" action="http://search.yahoo.com/search;_ylt=AqVi4zGswNsNT1D9jKMBAs9G2vAI">
+                       <!--  <label class="searchlabel" for="p">Search:</label> -->
+                       <div class="srch-wrap">
+                           <div class="srch-contnr">
+                        <div class="user_input" id="searchbox">
+                            <div class="halo" >
+                            <label for="p" class="a11y" id="labelVsearch">Web Search</label>
+                            <input type="text" id="p" class="inputtext search_input_area p_long" name="p" accesskey="s" />
+                            </div>
+                            
+                        </div>
+                        <button type="submit" id="searchsubmit" class="btn">Web Search</button>
+                           </div>
+                       </div>
+                        <input type="hidden" name="fr" value="my-myy">
+                        
+                        <input type="hidden" name="toggle" value="1" />
+                        <input type="hidden" name="cop" value="" />
+                        <input type="hidden" name="ei" value="UTF-8" />
+                        <div style="clear:both; font-size:0">&nbsp;</div>
+                        <div class="small" id="sboxfooter">&nbsp;</div>
+                    </form>
+                </div><div id='my-vsearch-body-3' class=' search_tab_body extra_tab_body metro'>    <form>
+<!--         <label class="searchlabel" for="local_p">Search:</label> -->
+    <div class="srch-wrap">
+       <div class="srch-contnr">
+        <ul class="user_input">
+          <li>
+              <label class="a11y" for="local_p">Businesses &amp; Services</label>
+              <div id="bService"><input type="text" id="local_p" class="inputtext p_long search_input_area" name="p" accesskey="s" /></div>
+          </li>
+          <li>
+            <label for="scsz" class="cszlabel1">
+              in
+            </label>
+          </li>
+          <li>
+            <label class="a11y" for="scsz">Address, City, State, or Zip</label>
+            <input type="text" value="Chicago, IL" id="scsz" class="inputtext search_input_area" name="csz">
+          </li>
+        </ul>
+        <button type="submit" id="localsearchsubmit" class="btn">Web Search</button>
+      </div>
+   </div>
+        <input type="hidden" name="fr" value="my-myy">
+        <input type="hidden" name="toggle" value="1" />
+        <input type="hidden" name="cop" value="" />
+        <input type="hidden" name="ei" value="UTF-8" />
+        <div style="clear:both; font-size:0">&nbsp;</div>
+    </form></div></div><!-- inline styles necessary to avoid jumpiness when the page loads-->
+<div id="my-sa" class="ymy-b " style="visibility: hidden; position: absolute;top:0;left:0">
+    <div class="sa-inr">
+        <!-- Search Assist Preference -->
+        <span id="my-sa-pref"> 
+            <a href="http://tools.search.yahoo.com/newsearch/searchassist.html" target="_blank" id="sa-lnk">Search Assist:</a> 
+            <a href="javascript:void(0)" id="my-sa-on">On</a> | 
+            <a href="javascript:void(0);" id="my-sa-off"> Off </a>
+        </span>
+
+
+
+	<div id='my-sa-noqry' style="display:none">
+		<h4> No Suggestions </h4>
+		<p> Please begin typing your search query </p>	
+	</div>
+
+	<div id="my-sa-dis" style="display:none">
+		<h4> Search Assistant Disabled</h4>
+		<p> <a href="javascript: void()" > Click here  </a> to enable it</p>
+	</div>
+
+	<div id='my-sa-ver' style="display:none">
+		<h4> Suggestions Not Available </h4>
+	</div>
+
+        <ul id="my-sa-sug"></ul>
+
+        <div class="sa-notice small">
+            <h3 class="a11y">Search Assist Options</h3>
+            <ul class="ymy-b">
+                <li class="abt"><a href="#" class="about about1">About Search Assist</a><a href="#" class="about about2">Hide About</a></li>
+                <li class="dbl"><a href="#" class="disable">Disable</a></li>
+            </ul>
+            <p class="desc">Search Assist offers relevant keywords in real-time as you type. You can choose them by scrolling through the list using the arrow keys or your mouse.</p>
+            <div class="dlg">
+                <h3>Disable Search Assist?</h3>
+                <ul class="ymy-b">
+                    <li><a href="javascript:void(0)" class="framework-img dlg-yes">Yes</a></li>
+                    <li><a href="javascript:void(0)" class="framework-img dlg-no">No</a></li>
+                </ul>
+                <p>Tip: To enable this feature again, click "More Options" and look for Search Assist.</p>
+            </div>
+        </div> 
+
+        <!-- Scroller -->
+        
+
+
+    </div>
+    <div id="my-sa-btm2-cont" >
+        <img id='my-sa-btm2' src="http://l.yimg.com/a/i/us/my/mw/srch/lip_open_093008.gif" align="top" style="width:100%; height:11px;">
+    </div> 
+</div>
+
+<ul id="vsearchmenu" class="ymy-menu small"><li><a class="yltasis"  href="http://answers.yahoo.com/search/search_result" http://answers.yahoo.com/search/search_result;_ylt=AmgTQJeUruvRUm7lk4ouzKNG2vAIcustom-lbl="Answers"  title="Answers Search">Answers</a></li><li><a class="yltasis"  href="http://autos.yahoo.com/search/" http://autos.yahoo.com/search/;_ylt=AnAWc3eiYbfumUyEGIw.Nt5G2vAIcustom-lbl="Autos"  title="Autos Search">Autos</a></li><li><a class="yltasis"  href="http://omg.yahoo.com/search" http://us.lrd.yahoo.com/_ylt=Av_WZe04EUXHRX.W.ugr67xG2vAI/RV=1/RE=1326268101/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=3/RU=aHR0cDovL29tZy55YWhvby5jb20vc2VhcmNo/RS=^ADAL51X.H7Qp42v8Z.XfHcmxdaGRbU-custom-lbl="Celebrities"  title="Celebrities Search">Celebrities</a></li><li><a class="yltasis" menu-prop="directory" extra-param=&y=Search href="http://search.yahoo.com/search/dir" http://search.yahoo.com/search/dir;_ylt=An6AGQGXPcCUKxln4j6c4vJG2vAIcustom-lbl="Directory"  title="Directory Search">Directory</a></li><li><a class="yltasis"  href="http://finance.yahoo.com/search" http://us.lrd.yahoo.com/_ylt=AtKhdplShp5A13EZ1V55Ww9G2vAI/RV=1/RE=1326268101/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=3/RU=aHR0cDovL2ZpbmFuY2UueWFob28uY29tL3NlYXJjaA--/RS=^ADAfA7nlooothbDz_MEacdAyie5l0I-custom-lbl="Finance"  title="Finance Search">Finance</a></li><li><a class="yltasis" menu-prop="games" extra-param=&vs=games.yahoo.com+videogames.yahoo.com href="http://search.yahoo.com/search" http://search.yahoo.com/search;_ylt=AgPXbekqJkYg1S4YEmOciORG2vAIcustom-lbl="Games"  title="Games Search">Games</a></li><li><a class="yltasis" menu-prop="jobs" diff-qury-param="keywords_all"  href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html" http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html;_ylt=Aon7k22WasZvottXvagteCpG2vAIcustom-lbl="Jobs"  title="Jobs Search">Jobs</a></li><li><a class="yltasis" menu-prop="local" href="http://local.yahoo.com/results" http://local.yahoo.com/results;_ylt=AsNfmA6XK14o7TQqToAdukFG2vAIcustom-lbl="Local"  title="Local Search">Local</a></li><li><a class="yltasis" menu-prop="mail" diff-qury-param="s"  href="http://mrd.mail.yahoo.com/search" http://us.lrd.yahoo.com/_ylt=AvqEFo1Lv2LJS3ZxgNvL8VFG2vAI/RV=1/RE=1326268101/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=3/RU=aHR0cDovL21yZC5tYWlsLnlhaG9vLmNvbS9zZWFyY2g-/RS=^ADAQJboclcdph8C7Ehd0Y6NlEQpy_w-custom-lbl="Mail"  title="Mail Search">Mail</a></li><li><a class="yltasis"  href="http://movies.yahoo.com/mv/search" http://us.lrd.yahoo.com/_ylt=Ani_ZGMMiI5ZWnyRw4kvlgdG2vAI/RV=1/RE=1326268101/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=3/RU=aHR0cDovL21vdmllcy55YWhvby5jb20vbXYvc2VhcmNo/RS=^ADA09jJDdVauMyKExVbYkQpizO4PvA-custom-lbl="Movies"  title="Movies Search">Movies</a></li><li><a class="yltasis" menu-prop="music" extra-param=&m=all href="http://search.music.yahoo.com/search/" http://us.lrd.yahoo.com/_ylt=AqwDyjzeLCc.d1sINUZuc6hG2vAI/RV=1/RE=1326268101/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=3/RU=aHR0cDovL3NlYXJjaC5tdXNpYy55YWhvby5jb20vc2VhcmNoLw--/RS=^ADAssO3CunhT_ZIoNanzCohU6WFZmw-custom-lbl="Music"  title="Music Search">Music</a></li><li><a class="yltasis" menu-prop="news" extra-param=&y=Search href="http://news.search.yahoo.com/search/news" http://us.lrd.yahoo.com/_ylt=AqjKC9AklUN2a6anuE.WpqNG2vAI/RV=1/RE=1326268101/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=3/RU=aHR0cDovL25ld3Muc2VhcmNoLnlhaG9vLmNvbS9zZWFyY2gvbmV3cw--/RS=^ADA1MkV_qdTTYpCPmvqym1PWRnCjto-custom-lbl="News"  title="News Search">News</a></li><li><a class="yltasis"  href="http://shopping.yahoo.com/search" http://shopping.yahoo.com/search;_ylt=AoP63XBJs1JdQPHqPKdN.qFG2vAIcustom-lbl="Shopping"  title="Shopping Search">Shopping</a></li><li><a class="yltasis"  href="http://sports.search.yahoo.com/search" http://us.lrd.yahoo.com/_ylt=An87xnBvzrt43.1hOx6wuSdG2vAI/RV=1/RE=1326268101/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=3/RU=aHR0cDovL3Nwb3J0cy5zZWFyY2gueWFob28uY29tL3NlYXJjaA--/RS=^ADA8EBLUqUyFZntLYN_PJ1AWfCh9vo-custom-lbl="Sports"  title="Sports Search">Sports</a></li><li><a class="yltasis"  href="http://travel.yahoo.com/bin/search/travel" http://travel.yahoo.com/bin/search/travel;_ylt=Asvu2yblIg2o6uegc6yLBpJG2vAIcustom-lbl="Travel"  title="Travel Search">Travel</a></li><li><a class="yltasis"  href="http://tv.yahoo.com/search" http://us.lrd.yahoo.com/_ylt=Ao3v9JN1kyNmDVoHcEVe3cpG2vAI/RV=1/RE=1326268101/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=3/RU=aHR0cDovL3R2LnlhaG9vLmNvbS9zZWFyY2g-/RS=^ADALi5Utiqmnr9sXaGFHnpo2kZ0wXE-custom-lbl="TV"  title="TV Search">TV</a></li><li><a class="yltasis" menu-prop="video" href="http://video.search.yahoo.com/search/video" http://us.lrd.yahoo.com/_ylt=AmH58a3MCh1uMND2p9_Xl9hG2vAI/RV=1/RE=1326268101/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=3/RU=aHR0cDovL3ZpZGVvLnNlYXJjaC55YWhvby5jb20vc2VhcmNoL3ZpZGVv/RS=^ADATqr.B0K.RmCXBca.JsmoMgZH7S8-custom-lbl="Video"  title="Video Search">Video</a></li><li><a class="yltasis"  redir-flag = 1  href="http://tools.search.yahoo.com/about/forsearchers.html?fr=my-myy" http://us.lrd.yahoo.com/_ylt=Ar7aDCxYO_.R0TLKN.q4w8dG2vAI/RV=1/RE=1326268101/RH=dXMubHJkLnlhaG9vLmNvbQ--/RO=3/RU=aHR0cDovL3Rvb2xzLnNlYXJjaC55YWhvby5jb20vYWJvdXQvZm9yc2VhcmNoZXJzLmh0bWw_ZnI9bXktbXl5/RS=^ADANArrDeb.UfbzIca9ZSxS7ObLrwc-custom-lbl="All Search Services"  title="All Search Services Search">All Search Services</a></li><li><a class="yltasis"  redir-flag = 1  href="http://search.yahoo.com/web/advanced?fr=my-myy" http://search.yahoo.com/web/advanced;_ylt=Al5JLvAF.sZpQu7J8K_KeLNG2vAI?fr=my-myycustom-lbl="Advanced Search"  title="Advanced Search Search">Advanced Search</a></li></ul>    </td>
+    
+    
+    </tr></table>
+    </div>
+    <!-- End masthead -->    <div id="submasthead" class="ymy-b">            <!-- Start page info -->
+            <ul id="pageinfo" class="ymy-pipedlist">
+                                    <li><h2 id='myy-last-update' class ="last-update"><span>Jan  9, 10:48 pm CST</span><span class="pipe"></span></h2></li>
+                
+                
+                
+                <li><h2><a id="getmobile" href="javascript:void(0);">Get My Yahoo! for Mobile</a></h2></li>
+                
+            </ul>
+            <!-- End page info -->            <!-- Start page nav -->
+                <div id="pageNavMenuLnks"><span class="menu">
+                
+<a id="trough-quick-links" inst_b="{&quot;t&quot;:&quot;qlnks&quot;,&quot;act&quot;:&quot;open\/close quicklinks&quot;,&quot;tab&quot;:&quot;quicklinks&quot;,&quot;ud&quot;:&quot;geo&quot;,&quot;_S&quot;:&quot;150002246&quot;}" class="quicklinks " href="javascript:void(0);" title="Quicklinks">
+<span><h3>Quicklinks</h3><em id="ql-norgie" class="norgie">Expand app</em></span>
+</a>
+
+
+                </span>
+                </div>
+                            <div class="nav">
+            <div id="pagenav">
+            <ul id="top" class="ymy-pipedlist">                    <li id="p2" class=""><div class="pg"><a class="pgnm " target="_self" href="/p/2.html" title="" a11y-enter-txt="" id="p2-title" inst_b="{&quot;_S&quot;:&quot;150002246&quot;,&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page2&quot;,&quot;pos&quot;:&quot;2&quot;,&quot;ud&quot;:&quot;geo&quot;}">Financial<span class="a11y"></span></a>                         <a class="delete" id="p2-delete" href="javascript:void(0)" inst_b="{&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page2&quot;,&quot;act&quot;:&quot;tabdel&quot;,&quot;ud&quot;:&quot;geo&quot;,&quot;_S&quot;:&quot;150002246&quot;}"><span class="a11y">Delete this tab</span></a>
+</div></li>
+                    <li id="p3" class=""><div class="pg"><a class="pgnm " target="_self" href="/p/3.html" title="" a11y-enter-txt="" id="p3-title" inst_b="{&quot;_S&quot;:&quot;150002246&quot;,&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page3&quot;,&quot;pos&quot;:&quot;3&quot;,&quot;ud&quot;:&quot;geo&quot;}">Local<span class="a11y"></span></a>                         <a class="delete" id="p3-delete" href="javascript:void(0)" inst_b="{&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page3&quot;,&quot;act&quot;:&quot;tabdel&quot;,&quot;ud&quot;:&quot;geo&quot;,&quot;_S&quot;:&quot;150002246&quot;}"><span class="a11y">Delete this tab</span></a>
+</div></li>
+                    <li id="p1" class=""><div class="pg"><a class="pgnm " target="_self" href="/p/1.html" title="" a11y-enter-txt="" id="p1-title" inst_b="{&quot;_S&quot;:&quot;150002246&quot;,&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page1&quot;,&quot;pos&quot;:&quot;1&quot;,&quot;ud&quot;:&quot;geo&quot;}">News<span class="a11y"></span></a>                         <a class="delete" id="p1-delete" href="javascript:void(0)" inst_b="{&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page1&quot;,&quot;act&quot;:&quot;tabdel&quot;,&quot;ud&quot;:&quot;geo&quot;,&quot;_S&quot;:&quot;150002246&quot;}"><span class="a11y">Delete this tab</span></a>
+</div></li>
+                    <li id="p5" class=""><div class="pg"><a class="pgnm " target="_self" href="/p/5.html" title="" a11y-enter-txt="" id="p5-title" inst_b="{&quot;_S&quot;:&quot;150002246&quot;,&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page5&quot;,&quot;pos&quot;:&quot;5&quot;,&quot;ud&quot;:&quot;geo&quot;}">Professional<span class="a11y"></span></a>                         <a class="delete" id="p5-delete" href="javascript:void(0)" inst_b="{&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page5&quot;,&quot;act&quot;:&quot;tabdel&quot;,&quot;ud&quot;:&quot;geo&quot;,&quot;_S&quot;:&quot;150002246&quot;}"><span class="a11y">Delete this tab</span></a>
+</div></li>
+                    <li id="p7" class="current"><div class="pg"><a class="pgnm " target="_self" href="/p/7.html" title="Click to edit tab name" a11y-enter-txt="Page. Press enter to edit page name" id="p7-title" inst_b="{&quot;_S&quot;:&quot;150002246&quot;,&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page7&quot;,&quot;pos&quot;:&quot;7&quot;,&quot;ud&quot;:&quot;geo&quot;}">Tech Rags<span class="a11y">Page. Press enter to edit page name</span></a>                         <a class="delete" id="p7-delete" href="javascript:void(0)" inst_b="{&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page7&quot;,&quot;act&quot;:&quot;tabdel&quot;,&quot;ud&quot;:&quot;geo&quot;,&quot;_S&quot;:&quot;150002246&quot;}"><span class="a11y">Delete this tab</span></a>
+</div></li>
+                    <li id="p4" class=""><div class="pg"><a class="pgnm " target="_self" href="/p/4.html" title="" a11y-enter-txt="" id="p4-title" inst_b="{&quot;_S&quot;:&quot;150002246&quot;,&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page4&quot;,&quot;pos&quot;:&quot;4&quot;,&quot;ud&quot;:&quot;geo&quot;}">Periodicals<span class="a11y"></span></a>                         <a class="delete" id="p4-delete" href="javascript:void(0)" inst_b="{&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page4&quot;,&quot;act&quot;:&quot;tabdel&quot;,&quot;ud&quot;:&quot;geo&quot;,&quot;_S&quot;:&quot;150002246&quot;}"><span class="a11y">Delete this tab</span></a>
+</div></li>
+                    <li id="p6" class=""><div class="pg"><a class="pgnm " target="_self" href="/p/6.html" title="" a11y-enter-txt="" id="p6-title" inst_b="{&quot;_S&quot;:&quot;150002246&quot;,&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page6&quot;,&quot;pos&quot;:&quot;6&quot;,&quot;ud&quot;:&quot;geo&quot;}">Art<span class="a11y"></span></a>                         <a class="delete" id="p6-delete" href="javascript:void(0)" inst_b="{&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page6&quot;,&quot;act&quot;:&quot;tabdel&quot;,&quot;ud&quot;:&quot;geo&quot;,&quot;_S&quot;:&quot;150002246&quot;}"><span class="a11y">Delete this tab</span></a>
+</div></li>
+                    <li id="p8" class=""><div class="pg"><a class="pgnm " target="_self" href="/p/8.html" title="" a11y-enter-txt="" id="p8-title" inst_b="{&quot;_S&quot;:&quot;150002246&quot;,&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page8&quot;,&quot;pos&quot;:&quot;8&quot;,&quot;ud&quot;:&quot;geo&quot;}">Music<span class="a11y"></span></a>                         <a class="delete" id="p8-delete" href="javascript:void(0)" inst_b="{&quot;t&quot;:&quot;pagenav&quot;,&quot;lk&quot;:&quot;page8&quot;,&quot;act&quot;:&quot;tabdel&quot;,&quot;ud&quot;:&quot;geo&quot;,&quot;_S&quot;:&quot;150002246&quot;}"><span class="a11y">Delete this tab</span></a>
+</div></li>
+<li class="add-page"><a id="my-add-page" href="javascript:void(0)"><h3>New Tab</h3></a></li>            </ul>
+        </div>
+        </div>
+            <!-- End page nav --></div></div></div>
+            <div id="pageoptions">
+                
+                <ul id="promo_links_list" class="vinfo">
+<li class="small"><a href="http://global.ard.yahoo.com/SIG=15o1abtdi/M=791726.14990541.14699137.13720034/D=my/S=150002246:MLINE/Y=YAHOO/EXP=1326178101/L=EWb112KL8NKMauuTTeqv0QT3RDzjmk8LwxIAB_ic/B=8aiXAWKL5Us-/J=1326170901130679/K=ZOplsFfF9sLoV2bm7yFV1w/A=6534532/R=0/SIG=15n2o4vo8/*http://d.audienceiq.com/r/dd/id/L21rdC83My9jaWQvMTYxMzg3ODcvdC8y/cat/97,184/url/http://www.freecreditscore.com/dni/default.aspx?SiteVersionID=997&sc=671020&bcd=YFPMLINE_FC4_598Hurts" target="_blank">598 Credit Score hurts credit. See yours Freecreditscore.com</a><!--QYZ ,;;MLINE;150002246;2;--><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['8aiXAWKL5Us-']='&U=13hgilb2f%2fN%3d8aiXAWKL5Us-%2fC%3d791726.14990541.14699137.13720034%2fD%3dMLINE%2fB%3d6534532%2fV%3d1';
+</script><noscript><img width=1 height=1 alt="" src="http://us.bc.yahoo.com/b?P=EWb112KL8NKMauuTTeqv0QT3RDzjmk8LwxIAB_ic&T=19skdh7pg%2fX%3d1326170901%2fE%3d150002246%2fR%3dmy%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d2908052565%2fH%3dY29udGVudD0ibm9fZXhwYW5kYWJsZTthamF4X2NlcnRfZXhwYW5kYWJsZTsiIHNlcnZlSWQ9IkVXYjExMktMOE5LTWF1dVRUZXF2MFFUM1JEemptazhMd3hJQUJfaWMiIHNpdGVJZD0iNDQ2MzU1MSIgdFN0bXA9IjEzMjYxNzA5MDEwODc3NTciIA--%2fQ%3d-1%2fS%3d1%2fJ%3d68F38B62&U=13hgilb2f%2fN%3d8aiXAWKL5Us-%2fC%3d791726.14990541.14699137.13720034%2fD%3dMLINE%2fB%3d6534532%2fV%3d1"></noscript></li>
+ </ul>
+                <ul class="jawoptions">
+                    <li id="p-content">
+                        <a href="/evt?type=contentstore" class="add-content" data-nofollow="on">
+                            <span>
+                                <h3>Content</h3>
+                            </span>
+                        </a>
+                    </li>
+                    <li id="p-appearance">
+                        <a href="/evt?type=themepicker" class="add-theme" data-nofollow="on">
+                            <span>
+                                <h3>Themes</h3>
+                            </span>
+                        </a>
+                    </li>
+                    <li id="p-options">
+                        <a href="/evt?type=pagemenu" class="add-options" data-nofollow="on">
+                            <span>
+                                <h3>Options</h3>
+                            </span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>            <!-- Start Jaw -->
+<div id="my-jaw"></div>
+<div id="my-jaw-backstage"></div>
+<!-- End Jaw -->        <div id="subjaw" class="closed">
+  <div id="subjaw-inner">
+     <div class="sjdlg">
+        <div class="sjdlg-container">
+          <div class="sjdlg-hd">
+               
+               <h2 id="sj-h"></h2>
+               <ul id="sj-trail" class="ymybctrail"></ul>
+               <div id="theme-capacity-ind" class="thm-cap-ind medium"></div>
+               <div id="sjhd-search" class="sj-search btn-ctr">
+                   <div class="input">
+                       <label for="sj-srch-q" class="a11y">App Search</label>
+                       <input type="text" value=" Search content..." id="sj-srch-q" />
+                   </div>
+                   <div class="btn-brd-out search"><a id="sj-srch" class="btn-brd-in search" href="#">Search</a></div>
+               </div>
+          </div>
+        </div>
+        <div id="sj-bd" class="sjdlg-bd">                    
+          
+               <div id="ldlg" class="dlg">
+                     <div class="dlg-ctr">
+                         <span class="dlg-main">
+                             <div class="sj-loading"><strong>Loading</strong></div>
+                         </span>
+                     </div>
+               </div>
+        </div>
+     </div>
+     <div id="sj-load"></div>
+     <div id="sj-close2" class="a11y"><a href="#">Close</a></div>
+  </div>
+</div>        </div>
+<!-- End hd div -->
+        <div class="addmdlg" id="add-md-dlg" style="display:none">
+    <a href="javascript:void(0)" id="add-md-close" class="close">X</a>
+    <h3>Did you know...</h3>
+    <p>You can rearrange the content on your page by just dragging it by the title bar and dropping it where you want it to go.</p>
+</div>
+ <div id="bd" class="yui-tt1">
+              <!-- start: primary column from outer template -->
+	          <div id="yui-main">
+	            <div class="yui-b">
+             <table border=0 summary="Column layout for modules" id="main-layout" class="lyt-2a t-1 ">
+             <tr><td id="trough-td" class="">
+              <div id="ql" class="trough-1">
+              <div id="ynav" class="t-mod "><div id="ed_ynav" class="ed type_ynav_ed type_ynav_edit suid_5951282_ed suid_5951282_edit "></div><div id="bd_ynav" class="bd type_ynav suid_5951282 "><div class="bd"><ul class="t-mod"><li><a style="background-position: 0 -3240px" href="http://autos.yahoo.com"inst_r="http://us.lrd.yahoo.com/_ylt=AtcV21PCzr_E9.Oq72e.3WhG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2F1dG9zLnlhaG9vLmNvbS8-/RS=^ADAvVmHy13lqdXdW.qKm9uI_C3K570-">Autos</a></li><li><a style="background-position:0 -3480px" href="http://www.monster.com/?WT.mc_n=yta_trough_main"inst_r="http://us.lrd.yahoo.com/_ylt=AsLRwZqYRZmD_oDEJEw0Z_BG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3d3dy5tb25zdGVyLmNvbS8_V1QubWNfbj15dGFfdHJvdWdoX21haW4-/RS=^ADAcpC6K.V8Dhth5FxxNcVgTeSRHLk-">Careers</a></li><li><a style="background-position:0 -3279px" href="http://yahoo.match.com/?trackingid=526115&bannerid=798079"inst_r="http://us.lrd.yahoo.com/_ylt=AmAezP36GlPDnhLoNOnPH7tG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3lhaG9vLm1hdGNoLmNvbS8_dHJhY2tpbmdpZD01MjYxMTUmYmFubmVyaWQ9Nzk4MDc5/RS=^ADApNnrDAIJbryjVBEs.G0rhcVl.Bk-">Dating</a></li><li><a style="background-position:0 -3320px" href="http://finance.yahoo.com"inst_r="http://us.lrd.yahoo.com/_ylt=Aj4NBU.tLfDRQPF3m8GrkqBG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZpbmFuY2UueWFob28uY29tLw--/RS=^ADAeTwt9lCa1RgL.cvpLHNvHvyKxmo-">Finance</a></li><li><a style="background-position:0 -3360px" href="http://games.yahoo.com"inst_r="http://us.lrd.yahoo.com/_ylt=ArrApk1IZtfsrBu66elU4HtG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2dhbWVzLnlhaG9vLmNvbS8-/RS=^ADAVrAONX4y3hCGOA4roFx56oI813c-">Games</a></li><li><a style="background-position:0 -3400px" href="http://health.yahoo.net/"inst_r="http://us.lrd.yahoo.com/_ylt=Ao.mFidR8A0JomAXftsCX3pG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2hlYWx0aC55YWhvby5uZXQv/RS=^ADAT98LH3r4Cwk.c4ozgsJP3YQhORE-">Health</a></li><li><a style="background-position:0 -3440px" href="http://shine.yahoo.com/astrology/"inst_r="http://us.lrd.yahoo.com/_ylt=Ajtipl9vHf17x9HQmg_SZr1G2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3NoaW5lLnlhaG9vLmNvbS9hc3Ryb2xvZ3kv/RS=^ADAtT1iKiOw1T1JvU0kpfRqQd7TfNM-">Horoscopes</a></li><li><a style="background-position:0 -3520px" href="http://local.yahoo.com"inst_r="http://us.lrd.yahoo.com/_ylt=AlEwF8hBGn6wfMVhVerlE.hG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2xvY2FsLnlhaG9vLmNvbS8-/RS=^ADAsa4MERqFUonKAEOOV1pPY1Ro61M-">Local</a></li><li><a style="background-position:0 -3560px" href="http://mail.yahoo.com"inst_r="http://us.lrd.yahoo.com/_ylt=AlWOu6NkmDNTtxoTjZ70y.hG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL21haWwueWFob28uY29tLw--/RS=^ADANJOfCc2hW73fnnFFtG.wOp8SREI-">Mail</a></li><li><a style="background-position:0 -3600px" href="http://messenger.yahoo.com/"inst_r="http://us.lrd.yahoo.com/_ylt=At.7_9mg42ZF_b0zhMEmB_NG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL21lc3Nlbmdlci55YWhvby5jb20v/RS=^ADAwZchPhWNePOkAg7C51uqbN4XrYQ-">Messenger</a></li><li><a style="background-position:0 -3639px" href="http://movies.yahoo.com"inst_r="http://us.lrd.yahoo.com/_ylt=AqRi_yAKETJjQM46z8THSWhG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL21vdmllcy55YWhvby5jb20v/RS=^ADASqTL3z9yh9ib65yriYycXP0tDPg-">Movies</a></li><li><a style="background-position: 0 -3679px" href="http://music.yahoo.com"inst_r="http://us.lrd.yahoo.com/_ylt=AgB6NORxBoaPw9kiypkNpIdG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL211c2ljLnlhaG9vLmNvbS8-/RS=^ADARlNkWQ5K_BNGEfVTSWn8MvSv7O4-">Music</a></li><li><a style="background-position: 0 -3719px" href="http://omg.yahoo.com/"inst_r="http://us.lrd.yahoo.com/_ylt=AnJ.O2dw9tiz0sErsalNNNNG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL29tZy55YWhvby5jb20v/RS=^ADAI2AEtwoFGtf.AyvsEqda.suXSW0-">OMG</a></li><li><a style="background-position: 0 -3760px" href="http://realestate.yahoo.com"inst_r="http://us.lrd.yahoo.com/_ylt=AoATHi8ky5twuVObpmb0jOpG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3JlYWxlc3RhdGUueWFob28uY29tLw--/RS=^ADA77Zg4Qv_ghxxIXQIlBfHk4I4pRY-">Real Estate</a></li><li><a style="background-position:0 -3799px" href="http://shine.yahoo.com"inst_r="http://us.lrd.yahoo.com/_ylt=AsBcrztklERIHc2jjihER3BG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3NoaW5lLnlhaG9vLmNvbS8-/RS=^ADAD0J6zjd2Ok2VYxssAfluetV1poM-">Shine</a></li><li><a style="background-position:0 -3839px" href="http://shopping.yahoo.com"inst_r="http://us.lrd.yahoo.com/_ylt=AoO9t7B3OvcjaRy5cUGA3mFG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3Nob3BwaW5nLnlhaG9vLmNvbS8-/RS=^ADAMnAskaFZGeQwr_QdYMqokwDpNx8-">Shopping</a></li><li><a style="background-position:0 -3879px" href="http://sports.yahoo.com"inst_r="http://us.lrd.yahoo.com/_ylt=Ar9sPfIs0xeAraHn1OWSzSFG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3Nwb3J0cy55YWhvby5jb20v/RS=^ADAQjcnv.Xp.XSyTAUWR0c_FcEzF48-">Sports</a></li><li><a style="background-position:0 -3959px" href="http://tv.yahoo.com/"inst_r="http://us.lrd.yahoo.com/_ylt=Al6u.oawoB7X51vWui048fRG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3R2LnlhaG9vLmNvbS8-/RS=^ADAhD7e9gNlt5gPopjZXswCS3dwU2I-">TV</a></li><li><a style="background-position:0 -3919px" href="http://travel.yahoo.com"inst_r="http://us.lrd.yahoo.com/_ylt=Altof7bD7_RhmuLXPdtuTJtG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3RyYXZlbC55YWhvby5jb20v/RS=^ADACKsm1tVFbU4LA54Ns0coxvOIXFc-">Travel</a></li><li><a style="background-position: 0 -3998px" href="http://weather.yahoo.com/"inst_r="http://us.lrd.yahoo.com/_ylt=Atlk0.hROCNGxDJgBhPchFJG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3dlYXRoZXIueWFob28uY29tLw--/RS=^ADAZml3GA0dS96K6CzH50Hh7MXfugw-">Weather</a></li>                <li class="t-ft t-nb">
+                <a href="http://docs.yahoo.com/docs/family/more" class=""  title="View the complete list of Yahoo! Services" inst_r="http://us.lrd.yahoo.com/_ylt=AvL2MhSypitZaEmKQ1nJ5OlG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2RvY3MueWFob28uY29tL2RvY3MvZmFtaWx5L21vcmU-/RS=^ADAAihCDLN307_q6KUBQ3yZn3sxD4o-">More Yahoo! Services</a>
+                </li>
+                </ul></div></div></div><h3 class="ttitle">Quicklinks</h3><a id="navtoggle" class="navtoggle" title="Add Quicklinks to your page"><span><span class="min" id="navtext">Add Quicklinks to your page</span></span></a>
+              <div class="t-shadow"></div></div></td><td id="nav-column-spacer" class="spacer"><div style="width:10px;">&nbsp;</div></td>
+              
+                <!-- START COLUMN c1-->
+                <td id="c1" scope="col" class="first" style=""><div style="width:23em;visibility:hidden;height:0;overflow:hidden"></div>
+                <!-- start: your content here -->
+                <div id="c1-target" class="d-target">
+<div id="c23bcd" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_c23bcd" class="hd"><span id='minmax--c23bcd' class='mod-ec mod-collapse-icon'><a id='minmaxlink--c23bcd' class='rc mod-ec'><span id='minmaxh--c23bcd' class='h mod-ec'></span><span id='minmaxv--c23bcd' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--c23bcd' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title"      ><a href="http://www.boxesandarrows.com/" title="Boxes and Arrows" id="ttlMdHdng-c23bcd" >Boxes and Arrows</a></h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--c23bcd" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_c23bcd" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_c23bcd" class="bd type_simple suid_38110013 "><input type="hidden" id="c23bcd_htmlstate" value="%7B%22has_images%22%3A%221%22%2C%22has_descriptions%22%3A%221%22%2C%22ymy%3Adisplay%22%3A%22hi%22%2C%22wm%22%3A0%2C%22fp%22%3Atrue%2C%22ar%22%3A0%7D" /><ul class="reader-off"><li class="rich"><span class="pix mod-bdr" style="background-image:url(/files/banda/complexity-and-user/freeways-200.jpg)"><a name="_c5124684fc9f95d59bf61c3aec889dc111392111" target="_self" href="http://www.boxesandarrows.com/view/complexity-and-user" data-guid="http://www.boxesandarrows.com/view/complexity-and-user"></a></span><em><a name="_c5124684fc9f95d59bf61c3aec889dc111392111" target="_self" href="http://www.boxesandarrows.com/view/complexity-and-user" inst_r="http://us.lrd.yahoo.com/_ylt=AnrnIiGkfldCPrdiWtWFqFVG2vAI;_ylu=X3oDMTI2czZia2xiBGlpZANjNTEyNDY4NGZjOWY5NWQ1OWJmNjFjM2FlYzg4OWRjMTExMzkyMTExBG5vaAM1BHBvcwMxBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3d3dy5ib3hlc2FuZGFycm93cy5jb20vdmlldy9jb21wbGV4aXR5LWFuZC11c2Vy/RS=^ADATyV8L2y6W4GKWIjo592bhNyL6wY-" data-guid="http://www.boxesandarrows.com/view/complexity-and-user">Complexity and User Experience</a></em> <q class="alt-text-color">-&nbsp;one&nbsp;month&nbsp;ago</q><p>The best products don’t focus on features, they focus on clarity. Problems should be fixed through simple solutions, something you don’t have to configure, maintain, control. The perfect solution need...</p><div class="clear"></div><div class="separator alt-bg-color"></div></li><li class="elements-img"><em><a name="_0ea264a96d4c623d09ffb62241e25a14f5777f29" target="_self" href="http://www.boxesandarrows.com/view/alignment-diagrams" inst_r="http://us.lrd.yahoo.com/_ylt=AoZWcMtaIdt6QlunOk9Xpd1G2vAI;_ylu=X3oDMTI2cTk2YW0xBGlpZAMwZWEyNjRhOTZkNGM2MjNkMDlmZmI2MjI0MWUyNWExNGY1Nzc3ZjI5BG5vaAM1BHBvcwMyBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3d3dy5ib3hlc2FuZGFycm93cy5jb20vdmlldy9hbGlnbm1lbnQtZGlhZ3JhbXM-/RS=^ADABJJ8hIWC6YMayGsj2U9IC.jQMXA-" data-guid="http://www.boxesandarrows.com/view/alignment-diagrams">Alignment Diagrams</a></em> <q class="alt-text-color">-&nbsp;4&nbsp;months&nbsp;ago</q><cite>Did you ever get bounced around between departments when interacting with a company or service? This happened to me recently with my credit card: the card issuer and the bank backing it seemed to disa...</cite></li><li class="elements-img"><em><a name="_498d75810edf846298abc8816212409191d0adad" target="_self" href="http://www.boxesandarrows.com/view/are-your-users-s-t-u" inst_r="http://us.lrd.yahoo.com/_ylt=AhhmkfIUA6gomcl1Hbh_9ZRG2vAI;_ylu=X3oDMTI2YzEwNHF0BGlpZAM0OThkNzU4MTBlZGY4NDYyOThhYmM4ODE2MjEyNDA5MTkxZDBhZGFkBG5vaAM1BHBvcwMzBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3d3dy5ib3hlc2FuZGFycm93cy5jb20vdmlldy9hcmUteW91ci11c2Vycy1zLXQtdQ--/RS=^ADAAMV61Q8BJ9v52TEBp3h7UpNZQGY-" data-guid="http://www.boxesandarrows.com/view/are-your-users-s-t-u">Are your users S.T.U.P.I.D?</a></em> <q class="alt-text-color">-&nbsp;8&nbsp;months&nbsp;ago</q><cite>It is an honest question: how smart are your users? The answer may surprise you: it doesn’t matter. They can be geniuses or morons, but if you don’t engage their intelligence, you can’t depend on thei...</cite></li><li class="elements-img"><em><a name="_26ad229a778338a3220ea5054524e2305b079346" target="_self" href="http://www.boxesandarrows.com/view/novices-orienteer" inst_r="http://us.lrd.yahoo.com/_ylt=AhDhXDgDYkWjw5iITKVDwMRG2vAI;_ylu=X3oDMTI2YW1jbDF1BGlpZAMyNmFkMjI5YTc3ODMzOGEzMjIwZWE1MDU0NTI0ZTIzMDViMDc5MzQ2BG5vaAM1BHBvcwM0BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3d3dy5ib3hlc2FuZGFycm93cy5jb20vdmlldy9ub3ZpY2VzLW9yaWVudGVlcg--/RS=^ADAUrXHl7BFiVy1g0BbAYNg0QZmu_8-" data-guid="http://www.boxesandarrows.com/view/novices-orienteer">Novices Orienteer, Experts Teleport</a></em> <q class="alt-text-color">-&nbsp;8&nbsp;months&nbsp;ago</q><cite>Would you rather take a photo using your phone, a point-and-shoot camera, or a digital SLR ? How you answer this question is probably a good indicator of your photographic expertise. If you snap casua...</cite></li><li class="elements-img"><em><a name="_c2413828c463783bb25cef0c52c2f0c4d65dba56" target="_self" href="http://www.boxesandarrows.com/view/storyboarding-ipad" inst_r="http://us.lrd.yahoo.com/_ylt=Asvwk3FHHWRYS_lCz55znLdG2vAI;_ylu=X3oDMTI2c2loMnVnBGlpZANjMjQxMzgyOGM0NjM3ODNiYjI1Y2VmMGM1MmMyZjBjNGQ2NWRiYTU2BG5vaAM1BHBvcwM1BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3d3dy5ib3hlc2FuZGFycm93cy5jb20vdmlldy9zdG9yeWJvYXJkaW5nLWlwYWQ-/RS=^ADAoSY7ycSTKxmkeQ8rhvU1U0FeXjM-" data-guid="http://www.boxesandarrows.com/view/storyboarding-ipad">Storyboarding iPad Transitions</a></em> <q class="alt-text-color">-&nbsp;one&nbsp;year&nbsp;ago</q><cite>If your clients are not yet asking you to design transitions, they will likely do that on your next project. Transitions are hot, and not just because they entertain the eye. In confined mobile comput...</cite></li></ul></div><div id="ft_c23bcd" class="ft"></div><div class="t-shadow"></div></div>
+<div id="dc4795" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_dc4795" class="hd"><span id='minmax--dc4795' class='mod-ec mod-collapse-icon'><a id='minmaxlink--dc4795' class='rc mod-ec'><span id='minmaxh--dc4795' class='h mod-ec'></span><span id='minmaxv--dc4795' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--dc4795' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title"      ><a href="http://aws.typepad.com/aws/" title="Amazon Web Services Blog" id="ttlMdHdng-dc4795" >Amazon Web Services Blog</a></h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--dc4795" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_dc4795" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_dc4795" class="bd type_simple suid_38110013 "><input type="hidden" id="dc4795_htmlstate" value="%7B%22has_images%22%3A%221%22%2C%22has_descriptions%22%3A%221%22%2C%22ymy%3Adisplay%22%3A%22h%22%2C%22wm%22%3A0%2C%22fp%22%3Atrue%2C%22ar%22%3A0%7D" /><ul class="reader-off"><li class="elements-img"><em><a name="_02e63566bf04358bbce21ddfb61fda7bf80e4700" target="_self" href="http://feedproxy.google.com/~r/AmazonWebServicesBlog/~3/c2ztei8sJ10/additional-reserved-instance-options-for-the-relational-database-service.html" inst_r="http://us.lrd.yahoo.com/_ylt=Ap3qalFgueM454KnHmMsWIZG2vAI;_ylu=X3oDMTI2am5sM3Q5BGlpZAMwMmU2MzU2NmJmMDQzNThiYmNlMjFkZGZiNjFmZGE3YmY4MGU0NzAwBG5vaAM1BHBvcwMxBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0FtYXpvbldlYlNlcnZpY2VzQmxvZy9.My9jMnp0ZWk4c0oxMC9hZGRpdGlvbmFsLXJlc2VydmVkLWluc3RhbmNlLW9wdGlvbnMtZm9yLXRoZS1yZWxhdGlvbmFsLWRhdGFiYXNlLXNlcnZpY2UuaHRtbA--/RS=^ADA93L1mfvfookP9O5OpBX6ZTlvI8g-" data-guid="http://aws.typepad.com/aws/2012/01/additional-reserved-instance-options-for-the-relational-database-service.html">Additional Reserved Instance Options for Amazon RDS</a></em> <q class="alt-text-color">-&nbsp;6&nbsp;hours&nbsp;ago</q><cite>Hot on the heels of our announcement of Additional Reserved Instance Options for Amazon EC2 , I would like to tell you about a similar option for the Amazon Relational Database Service . 
+ We have add...</cite></li><li class="elements-img"><em><a name="_f4fcf590bcbf6d16a46936c3e8297706b8962443" target="_self" href="http://feedproxy.google.com/~r/AmazonWebServicesBlog/~3/z_hQmyNV3xo/ec2-instance-status-checks.html" inst_r="http://us.lrd.yahoo.com/_ylt=Ao_upCp2MF4En2E9wPZ5JFNG2vAI;_ylu=X3oDMTI2bzRkNjhoBGlpZANmNGZjZjU5MGJjYmY2ZDE2YTQ2OTM2YzNlODI5NzcwNmI4OTYyNDQzBG5vaAM1BHBvcwMyBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0FtYXpvbldlYlNlcnZpY2VzQmxvZy9.My96X2hRbXlOVjN4by9lYzItaW5zdGFuY2Utc3RhdHVzLWNoZWNrcy5odG1s/RS=^ADASK9ZhNLD4qfKbdVbJFTksXYxg8o-" data-guid="http://aws.typepad.com/aws/2012/01/ec2-instance-status-checks.html">EC2 Instance Status Checks and Reporting</a></em> <q class="alt-text-color">-&nbsp;3&nbsp;days&nbsp;ago</q><cite>Instance Status Checks You may remember that we recently introduced EC2 Instance Status Monitoring features to give you better visibility into the status of your AWS resources. We began by providing y...</cite></li><li class="elements-img"><em><a name="_7efb46fb60d8f28762498eca2d8d19c7046638d4" target="_self" href="http://feedproxy.google.com/~r/AmazonWebServicesBlog/~3/RHR0vqkq-7s/how-collections-work-in-the-aws-sdk-for-ruby.html" inst_r="http://us.lrd.yahoo.com/_ylt=AlwZkb7gdhXmZTiO2yIrPKNG2vAI;_ylu=X3oDMTI2N24zcXE2BGlpZAM3ZWZiNDZmYjYwZDhmMjg3NjI0OThlY2EyZDhkMTljNzA0NjYzOGQ0BG5vaAM1BHBvcwMzBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0FtYXpvbldlYlNlcnZpY2VzQmxvZy9.My9SSFIwdnFrcS03cy9ob3ctY29sbGVjdGlvbnMtd29yay1pbi10aGUtYXdzLXNkay1mb3ItcnVieS5odG1s/RS=^ADA3uJC8yzDqOBrjg5iqcFwlEWijK0-" data-guid="http://aws.typepad.com/aws/2012/01/how-collections-work-in-the-aws-sdk-for-ruby.html">How Collections Work in the AWS SDK for Ruby</a></em> <q class="alt-text-color">-&nbsp;5&nbsp;days&nbsp;ago</q><cite>Today we have a guest blog post from Matty Noble , Software Development Engineer, SDKs and Tools Team.   
+ - rodica 
+ 
+ We&#39;ve seen a few questions lately about how to work with collections of reso...</cite></li><li class="elements-img"><em><a name="_e285ec686c536055d8ba6c6d7e028d9fdec5551e" target="_self" href="http://feedproxy.google.com/~r/AmazonWebServicesBlog/~3/Lq5ZWatLB7Y/help-wanted-manager-and-senior-developers-for-new-aws-media-product.html" inst_r="http://us.lrd.yahoo.com/_ylt=Arex25fLF5qwiCqVfdGKGTtG2vAI;_ylu=X3oDMTI2OTQybzQ5BGlpZANlMjg1ZWM2ODZjNTM2MDU1ZDhiYTZjNmQ3ZTAyOGQ5ZmRlYzU1NTFlBG5vaAM1BHBvcwM0BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0FtYXpvbldlYlNlcnZpY2VzQmxvZy9.My9McTVaV2F0TEI3WS9oZWxwLXdhbnRlZC1tYW5hZ2VyLWFuZC1zZW5pb3ItZGV2ZWxvcGVycy1mb3ItbmV3LWF3cy1tZWRpYS1wcm9kdWN0Lmh0bWw-/RS=^ADAWh.Wms5Ja6mq6K7rjlJ_tWBCv3o-" data-guid="http://aws.typepad.com/aws/2012/01/help-wanted-manager-and-senior-developers-for-new-aws-media-product.html">Help Wanted - Manager and Senior Developers for new AWS Media Product</a></em> <q class="alt-text-color">-&nbsp;5&nbsp;days&nbsp;ago</q><cite>We are staffing up a brand-new AWS team to take advantage of some really interesting opportunities in the digital media space. 
+ This team is being launched from an existing product. This particular p...</cite></li><li class="elements-img"><em><a name="_638f8237ba3dff9e803e61ecd0c5a577a915ab14" target="_self" href="http://feedproxy.google.com/~r/AmazonWebServicesBlog/~3/Xz5sZpkU7FE/big-news-regarding-python-boto-and-aws.html" inst_r="http://us.lrd.yahoo.com/_ylt=AmzH.r1aJARIqdrN92KiRJRG2vAI;_ylu=X3oDMTI2NDlnaXU3BGlpZAM2MzhmODIzN2JhM2RmZjllODAzZTYxZWNkMGM1YTU3N2E5MTVhYjE0BG5vaAM1BHBvcwM1BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0FtYXpvbldlYlNlcnZpY2VzQmxvZy9.My9YejVzWnBrVTdGRS9iaWctbmV3cy1yZWdhcmRpbmctcHl0aG9uLWJvdG8tYW5kLWF3cy5odG1s/RS=^ADAiLc1ruubg3PVgKgxvfSigHuRcgs-" data-guid="http://aws.typepad.com/aws/2012/01/big-news-regarding-python-boto-and-aws.html">Big News Regarding Python, boto, and AWS</a></em> <q class="alt-text-color">-&nbsp;6&nbsp;days&nbsp;ago</q><cite>We know that developers want to call the AWS APIs from many different languages. Over the last couple of years we have created and delivered SDKs for Java , PHP , .NET , and Ruby . We have also done t...</cite></li></ul></div><div id="ft_dc4795" class="ft"></div><div class="t-shadow"></div></div>
+<div id="cbe2e3" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_cbe2e3" class="hd"><span id='minmax--cbe2e3' class='mod-ec mod-collapse-icon'><a id='minmaxlink--cbe2e3' class='rc mod-ec'><span id='minmaxh--cbe2e3' class='h mod-ec'></span><span id='minmaxv--cbe2e3' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--cbe2e3' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title"      ><a href="http://uxmag.com" title="UX Magazine" id="ttlMdHdng-cbe2e3" >UX Magazine</a></h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--cbe2e3" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_cbe2e3" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_cbe2e3" class="bd type_simple suid_38110013 "><input type="hidden" id="cbe2e3_htmlstate" value="%7B%22has_images%22%3A%221%22%2C%22has_descriptions%22%3A%221%22%2C%22ymy%3Adisplay%22%3A%22hi%22%2C%22wm%22%3A0%2C%22fp%22%3Atrue%2C%22ar%22%3A0%7D" /><ul class="reader-off"><li class="rich"><span class="pix mod-bdr" style="background-image:url(http://uxmag.com/sites/default/files/small.jpg?1325781329)"><a name="_7610cd82279f0cca3e36161431092c8d4e1ac35d" target="_self" href="http://feedproxy.google.com/~r/UXM/~3/8_N7PmZm2Sw/seven-ux-best-practices-of-community-design" data-guid="http://uxmag.com/articles/seven-ux-best-practices-of-community-design"></a></span><em><a name="_7610cd82279f0cca3e36161431092c8d4e1ac35d" target="_self" href="http://feedproxy.google.com/~r/UXM/~3/8_N7PmZm2Sw/seven-ux-best-practices-of-community-design" inst_r="http://us.lrd.yahoo.com/_ylt=AvUchm.mwXpTqg6L0k1fHrBG2vAI;_ylu=X3oDMTI2djlicTVzBGlpZAM3NjEwY2Q4MjI3OWYwY2NhM2UzNjE2MTQzMTA5MmM4ZDRlMWFjMzVkBG5vaAM1BHBvcwMxBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL1VYTS9.My84X043UG1abTJTdy9zZXZlbi11eC1iZXN0LXByYWN0aWNlcy1vZi1jb21tdW5pdHktZGVzaWdu/RS=^ADAH_ui26OhpmeTIas3EhvE1oisz7E-" data-guid="http://uxmag.com/articles/seven-ux-best-practices-of-community-design">Seven UX Best Practices of Community Design</a></em> <q class="alt-text-color">-&nbsp;4&nbsp;days&nbsp;ago</q><p>Business strategists have long preached the advice, “Adapt or die.” Adaptation is happening in the social pond with a user’s social graphs influencing online and offline decisions. A user’s community ...</p><div class="clear"></div><div class="separator alt-bg-color"></div></li><li class="elements-img"><em><a name="_65262ccfb86d987b10ac07efb0c454d9c50595e8" target="_self" href="http://feedproxy.google.com/~r/UXM/~3/FpYzUfr7FXU/five-practices-for-securing-user-confidence" inst_r="http://us.lrd.yahoo.com/_ylt=Aq80JGhWfuTIqi8xn5LSg5xG2vAI;_ylu=X3oDMTI2cGthamFlBGlpZAM2NTI2MmNjZmI4NmQ5ODdiMTBhYzA3ZWZiMGM0NTRkOWM1MDU5NWU4BG5vaAM1BHBvcwMyBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL1VYTS9.My9GcFl6VWZyN0ZYVS9maXZlLXByYWN0aWNlcy1mb3Itc2VjdXJpbmctdXNlci1jb25maWRlbmNl/RS=^ADAzeOmvipSXyfIrO5LhONcs46NB0c-" data-guid="http://uxmag.com/articles/five-practices-for-securing-user-confidence">5 Practices for Securing User Confidence</a></em> <q class="alt-text-color">-&nbsp;5&nbsp;days&nbsp;ago</q><cite>As UX designers, we are customer advocates. We design systems, products , and tools that are as beautiful as they are usable. We bend technology into new forms to compensate for gaps in human abilitie...</cite></li><li class="elements-img"><em><a name="_0aa41d0036681c13be76115e1cb1fa14fe811c19" target="_self" href="http://feedproxy.google.com/~r/UXM/~3/RllNEel1xcw/desire-is-a-universal-language" inst_r="http://us.lrd.yahoo.com/_ylt=AidFk_3IBXBktV9dQpRj4vpG2vAI;_ylu=X3oDMTI2ZTA3NG9jBGlpZAMwYWE0MWQwMDM2NjgxYzEzYmU3NjExNWUxY2IxZmExNGZlODExYzE5BG5vaAM1BHBvcwMzBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL1VYTS9.My9SbGxORWVsMXhjdy9kZXNpcmUtaXMtYS11bml2ZXJzYWwtbGFuZ3VhZ2U-/RS=^ADATqnuJRUzSNn83zR2wxjCelB_k9s-" data-guid="http://uxmag.com/articles/desire-is-a-universal-language">Desire Is A Universal Language</a></em> <q class="alt-text-color">-&nbsp;6&nbsp;days&nbsp;ago</q><cite>No matter how motivated we are or how much effort we invest in our work, it doesn&#39;t change the fact that we devote a sizable chunk of our careers to working on brands no one truly cares about. In ...</cite></li><li class="elements-img"><em><a name="_a925ed5b5b4e0575d775e700f3739d0588d9174b" target="_self" href="http://feedproxy.google.com/~r/UXM/~3/BBP3V1zgd4Y/decision-architecture-designing-for-decision-making" inst_r="http://us.lrd.yahoo.com/_ylt=Ag7C9JzOX32i.7FFNXmnDXNG2vAI;_ylu=X3oDMTI2NGtjZGZwBGlpZANhOTI1ZWQ1YjViNGUwNTc1ZDc3NWU3MDBmMzczOWQwNTg4ZDkxNzRiBG5vaAM1BHBvcwM0BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL1VYTS9.My9CQlAzVjF6Z2Q0WS9kZWNpc2lvbi1hcmNoaXRlY3R1cmUtZGVzaWduaW5nLWZvci1kZWNpc2lvbi1tYWtpbmc-/RS=^ADAMJdqb6mm23tjcPjbcPiqzmqPLIQ-" data-guid="http://uxmag.com/articles/decision-architecture-designing-for-decision-making">Decision Architecture: Designing for Decision-Making</a></em> <q class="alt-text-color">-&nbsp;2&nbsp;weeks&nbsp;ago</q><cite>A prospective customer is perusing your website, comparing the products and services you offer. You designed the site to make it easy for him to buy. But did you design the site to make it easy for hi...</cite></li><li class="elements-img"><em><a name="_30f0f4885133675e1217cec44da94f9b1a68c23e" target="_self" href="http://feedproxy.google.com/~r/UXM/~3/oaY8b3jfXxU/usability-testing-includes-users-as-stakeholders" inst_r="http://us.lrd.yahoo.com/_ylt=AoKmxoSTjtgxWh3Iual7T31G2vAI;_ylu=X3oDMTI2ZzRuOWFhBGlpZAMzMGYwZjQ4ODUxMzM2NzVlMTIxN2NlYzQ0ZGE5NGY5YjFhNjhjMjNlBG5vaAM1BHBvcwM1BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL1VYTS9.My9vYVk4YjNqZlh4VS91c2FiaWxpdHktdGVzdGluZy1pbmNsdWRlcy11c2Vycy1hcy1zdGFrZWhvbGRlcnM-/RS=^ADAK7QNaEr.Xx5xhR6LGalepZoBHgk-" data-guid="http://uxmag.com/articles/usability-testing-includes-users-as-stakeholders">Usability Testing Includes Users as Stakeholders</a></em> <q class="alt-text-color">-&nbsp;2&nbsp;weeks&nbsp;ago</q><cite>There has been a lot of debate and confusion about how many participants should be included in usability testing. Sometimes business teams think sample size in usability testing is just a matter of pe...</cite></li></ul></div><div id="ft_cbe2e3" class="ft"></div><div class="t-shadow"></div></div>
+<div id="ebe8dc" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_ebe8dc" class="hd"><span id='minmax--ebe8dc' class='mod-ec mod-collapse-icon'><a id='minmaxlink--ebe8dc' class='rc mod-ec'><span id='minmaxh--ebe8dc' class='h mod-ec'></span><span id='minmaxv--ebe8dc' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--ebe8dc' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title"      ><a href="http://www.startuplessonslearned.com/" title="Lessons Learned" id="ttlMdHdng-ebe8dc" >Lessons Learned</a></h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--ebe8dc" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_ebe8dc" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_ebe8dc" class="bd type_simple suid_38110013 "><input type="hidden" id="ebe8dc_htmlstate" value="%7B%22has_images%22%3A%221%22%2C%22has_descriptions%22%3A%221%22%2C%22has_videos%22%3A%221%22%2C%22ymy%3Adisplay%22%3A%22h%22%2C%22wm%22%3A0%2C%22fp%22%3Atrue%2C%22ar%22%3A0%7D" /><ul class="reader-off"><li class="elements-img"><em><a name="_d1f5a3337b3c1e554d167498e1794512dfbcda55" target="_self" href="http://feedproxy.google.com/~r/startup/lessons/learned/~3/h7z8Njh5sDs/london-calling.html" inst_r="http://us.lrd.yahoo.com/_ylt=AiP6JbqCArlXpxcJ7HWdqIVG2vAI;_ylu=X3oDMTI2cnVwZGdvBGlpZANkMWY1YTMzMzdiM2MxZTU1NGQxNjc0OThlMTc5NDUxMmRmYmNkYTU1BG5vaAM1BHBvcwMxBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL3N0YXJ0dXAvbGVzc29ucy9sZWFybmVkL34zL2g3ejhOamg1c0RzL2xvbmRvbi1jYWxsaW5nLmh0bWw-/RS=^ADAXUkhqmFLwJBm5TYaXQfYb3xVkLw-" data-guid="tag:blogger.com,1999:blog-7533727264507128560.post-8566193234911344105">London Calling</a></em> <q class="alt-text-color">-&nbsp;2&nbsp;days&nbsp;ago</q><cite>Happy New Year! 
+ 
+Four months ago, T he Lean Startup debuted at #2 on the New York Times bestseller list. Since then, I have been immersed in a non-stop whirlwind book tour of North America, filled w...</cite></li><li class="elements-img"><em><a name="_5f8bb8519053f65f7dfe497f2af9db606e34a9f5" target="_self" href="http://feedproxy.google.com/~r/startup/lessons/learned/~3/XhplAcgw_Pw/startup-is-vision.html" inst_r="http://us.lrd.yahoo.com/_ylt=AqBFHE29HUQUHs04seFj5wBG2vAI;_ylu=X3oDMTI2Mm1xYW5tBGlpZAM1ZjhiYjg1MTkwNTNmNjVmN2RmZTQ5N2YyYWY5ZGI2MDZlMzRhOWY1BG5vaAM1BHBvcwMyBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL3N0YXJ0dXAvbGVzc29ucy9sZWFybmVkL34zL1hocGxBY2d3X1B3L3N0YXJ0dXAtaXMtdmlzaW9uLmh0bWw-/RS=^ADAAA5NWnzpyEVpLClLlZ3DCNiuTEk-" data-guid="tag:blogger.com,1999:blog-7533727264507128560.post-483917779887933559">STARTUP IS VISION</a></em> <q class="alt-text-color">-&nbsp;one&nbsp;month&nbsp;ago</q><cite>The following is a rather unusual guest post. One of the more surreal parts of speaking publicly and putting ideas out into the ether is to watch other people run with them. I can&#39;t seem to help t...</cite></li><li class="elements-img"><em><a name="_8648cf1a52150ccf09411862af05ac37522f6bfd" target="_self" href="http://feedproxy.google.com/~r/startup/lessons/learned/~3/si-JdxOOPs4/that-old-time-startup-religion.html" inst_r="http://us.lrd.yahoo.com/_ylt=ApmdS7WtnvQKvoLyze1vz8dG2vAI;_ylu=X3oDMTI2MG4wNTBuBGlpZAM4NjQ4Y2YxYTUyMTUwY2NmMDk0MTE4NjJhZjA1YWMzNzUyMmY2YmZkBG5vaAM1BHBvcwMzBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL3N0YXJ0dXAvbGVzc29ucy9sZWFybmVkL34zL3NpLUpkeE9PUHM0L3RoYXQtb2xkLXRpbWUtc3RhcnR1cC1yZWxpZ2lvbi5odG1s/RS=^ADADGNzbc66qxxE0XviNFjy_TuAPQQ-" data-guid="tag:blogger.com,1999:blog-7533727264507128560.post-2139156815582584979">That old-time startup religion</a></em> <q class="alt-text-color">-&nbsp;one&nbsp;month&nbsp;ago</q><cite>Warning: the video below may be offensive to some readers. It contains irreverent use of religious language. Viewer discretion is advised.  
+ 
+ 
+So there I was, on stage in front of a large crowd, whe...</cite></li><li class="elements-img"><em><a name="_79eb096b2d62fd1e5d2338f3cee74f606fc186da" target="_self" href="http://feedproxy.google.com/~r/startup/lessons/learned/~3/bYwvknm4nF8/case-study-nordstrom-innovation-lab.html" inst_r="http://us.lrd.yahoo.com/_ylt=Arl0k5Fifpy5G8x2MZaGSFlG2vAI;_ylu=X3oDMTI2NXZyMGs5BGlpZAM3OWViMDk2YjJkNjJmZDFlNWQyMzM4ZjNjZWU3NGY2MDZmYzE4NmRhBG5vaAM1BHBvcwM0BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL3N0YXJ0dXAvbGVzc29ucy9sZWFybmVkL34zL2JZd3Zrbm00bkY4L2Nhc2Utc3R1ZHktbm9yZHN0cm9tLWlubm92YXRpb24tbGFiLmh0bWw-/RS=^ADA4jzzi_pUARkDvxpyaqTjDGI9tWw-" data-guid="tag:blogger.com,1999:blog-7533727264507128560.post-8229359930887246110">Case Study: The Nordstrom Innovation Lab</a></em> <q class="alt-text-color">-&nbsp;2&nbsp;months&nbsp;ago</q><cite>Today&#39;s case study answers a bunch of questions all at once about Lean Startup principles: can they be used inside a Fortune 500 company? can they be used to sell physical low-tech products? can t...</cite></li><li class="elements-img"><em><a name="_1c3577d1d64f97439aa235043fbd87732813896e" target="_self" href="http://feedproxy.google.com/~r/startup/lessons/learned/~3/9fzheO1ODTY/best-birthday-ever.html" inst_r="http://us.lrd.yahoo.com/_ylt=Anc8HaZ0PG_YkJ13up7.sa5G2vAI;_ylu=X3oDMTI2bXVmZjlhBGlpZAMxYzM1NzdkMWQ2NGY5NzQzOWFhMjM1MDQzZmJkODc3MzI4MTM4OTZlBG5vaAM1BHBvcwM1BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL3N0YXJ0dXAvbGVzc29ucy9sZWFybmVkL34zLzlmemhlTzFPRFRZL2Jlc3QtYmlydGhkYXktZXZlci5odG1s/RS=^ADA7kTJVoNThzWN6kWSDKzL1aXHrD8-" data-guid="tag:blogger.com,1999:blog-7533727264507128560.post-6438513294289361082">Best. Birthday. Ever.</a></em> <q class="alt-text-color">-&nbsp;3&nbsp;months&nbsp;ago</q><a name="_1c3577d1d64f97439aa235043fbd87732813896e" class="play video" href="http://static.slidesharecdn.com/swf/doc_player.swf?doc=theleanstartupnytimesbestsellerlistdebut2oct2-110925180324-phpapp01&amp;stripped_title=the-lean-startup-debuts-at-2-on-the-new-york-times-bestseller-list&amp;userName=startuplessonslearned" target="_v"   title="1 kbs" >Listen</a><cite>Last week I turned 33, while on the road. I received an incredible amount of good news all at once. First off, I received the big news that you&#39;ll get to read if you open up the paper this coming ...</cite></li></ul></div><div id="ft_ebe8dc" class="ft"></div><div class="t-shadow"></div></div>
+<div id="da5fb0" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_da5fb0" class="hd"><span id='minmax--da5fb0' class='mod-ec mod-collapse-icon'><a id='minmaxlink--da5fb0' class='rc mod-ec'><span id='minmaxh--da5fb0' class='h mod-ec'></span><span id='minmaxv--da5fb0' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--da5fb0' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-da5fb0 tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--da5fb0" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_da5fb0" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_da5fb0" class="bd type_simple suid_38110013 "><div class="error"><p class="error-content">Content from this source is currently not available. <a href="http://webreep.com">Click here</a> to contact them about the issue.</p></div></div><div id="ft_da5fb0" class="ft"></div><div class="t-shadow"></div></div>
+<div id="b30812" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_b30812" class="hd"><span id='minmax--b30812' class='mod-ec mod-collapse-icon'><a id='minmaxlink--b30812' class='rc mod-ec'><span id='minmaxh--b30812' class='h mod-ec'></span><span id='minmaxv--b30812' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--b30812' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title"      ><a href="http://highscalability.com/blog/" title="High Scalability" id="ttlMdHdng-b30812" >High Scalability</a></h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--b30812" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_b30812" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_b30812" class="bd type_simple suid_38110013 "><input type="hidden" id="b30812_htmlstate" value="%7B%22has_images%22%3A%221%22%2C%22has_descriptions%22%3A%221%22%2C%22ymy%3Adisplay%22%3A%22hi%22%2C%22wm%22%3A0%2C%22fp%22%3Atrue%2C%22ar%22%3A0%7D" /><ul class="reader-off"><li class="rich"><span class="pix mod-bdr" style="background-image:url(http://farm5.static.flickr.com/4088/4997942872_671232a8b0_o.jpg)"><a name="_ca5329e6f2920719ad71949714db504262082478" target="_self" href="http://highscalability.com/blog/2012/1/6/stuff-the-internet-says-on-scalability-for-january-6-2012.html" data-guid="426227:4867632:14445003"></a></span><em><a name="_ca5329e6f2920719ad71949714db504262082478" target="_self" href="http://highscalability.com/blog/2012/1/6/stuff-the-internet-says-on-scalability-for-january-6-2012.html" inst_r="http://us.lrd.yahoo.com/_ylt=Astq5RL.5QoFu6s2OuKeW4pG2vAI;_ylu=X3oDMTI2MnZ1YzlnBGlpZANjYTUzMjllNmYyOTIwNzE5YWQ3MTk0OTcxNGRiNTA0MjYyMDgyNDc4BG5vaAM1BHBvcwMxBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2hpZ2hzY2FsYWJpbGl0eS5jb20vYmxvZy8yMDEyLzEvNi9zdHVmZi10aGUtaW50ZXJuZXQtc2F5cy1vbi1zY2FsYWJpbGl0eS1mb3ItamFudWFyeS02LTIwMTIuaHRtbA--/RS=^ADAqUWqFvyilfjrS0Z6zRc8fWn4XZo-" data-guid="426227:4867632:14445003">Stuff The Internet Says On Scalability For January 6, 2012</a></em> <q class="alt-text-color">-&nbsp;3&nbsp;days&nbsp;ago</q><p>
+ OMG, it&#39;s 2012: 
+ 
+ Harry Bombarda Twilight ; 200 Million : Chinese online shoppers;  Quantum 150 qubit computer : all the power of today&#39;s supercomputers;   Sperm : two aspirins worth could...</p><div class="clear"></div><div class="separator alt-bg-color"></div></li><li class="elements-img"><em><a name="_b3b9741d78ff0e5dae39b29f7377c637d8638813" target="_self" href="http://highscalability.com/blog/2012/1/5/shutterfly-saw-a-speedup-of-500-with-flashcache.html" inst_r="http://us.lrd.yahoo.com/_ylt=AsUj230zlASxM1.hfFAcF6xG2vAI;_ylu=X3oDMTI2aGNiaDMxBGlpZANiM2I5NzQxZDc4ZmYwZTVkYWUzOWIyOWY3Mzc3YzYzN2Q4NjM4ODEzBG5vaAM1BHBvcwMyBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2hpZ2hzY2FsYWJpbGl0eS5jb20vYmxvZy8yMDEyLzEvNS9zaHV0dGVyZmx5LXNhdy1hLXNwZWVkdXAtb2YtNTAwLXdpdGgtZmxhc2hjYWNoZS5odG1s/RS=^ADAmtWCUGmur6QynInnX6MM9WjTMQ8-" data-guid="426227:4867632:14412445">Shutterfly Saw a Speedup of 500% With Flashcache</a></em> <q class="alt-text-color">-&nbsp;4&nbsp;days&nbsp;ago</q><cite>In the &quot;should I or shouldn&#39;t I&quot; debate around deploying SSD, it always helps to have real-world data. Fiesta! with a live-blog   summary of a presentation by Kenny Gorman on Shutterfly ...</cite></li><li class="elements-img"><em><a name="_c1b2ca3432924f1d540869e7d9ae3611a276fa96" target="_self" href="http://highscalability.com/blog/2012/1/4/how-facebook-handled-the-new-years-eve-onslaught.html" inst_r="http://us.lrd.yahoo.com/_ylt=AjJyUF5sOP5zUYsujj2jDIZG2vAI;_ylu=X3oDMTI2bGZyNTMzBGlpZANjMWIyY2EzNDMyOTI0ZjFkNTQwODY5ZTdkOWFlMzYxMWEyNzZmYTk2BG5vaAM1BHBvcwMzBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2hpZ2hzY2FsYWJpbGl0eS5jb20vYmxvZy8yMDEyLzEvNC9ob3ctZmFjZWJvb2staGFuZGxlZC10aGUtbmV3LXllYXJzLWV2ZS1vbnNsYXVnaHQuaHRtbA--/RS=^ADAUPZVq6VuPT6H4q1F4wEb8Y5ceZQ-" data-guid="426227:4867632:14414811">How Facebook Handled the New Year&#39;s Eve Onslaught</a></em> <q class="alt-text-color">-&nbsp;5&nbsp;days&nbsp;ago</q><cite>
+ How does Facebook handle the massive New Year&#39;s Eve traffic spike? Thanks to Mike Swift, in  Facebook gets ready for New Year&#39;s Eve , we get a little insight as to their method for the madne...</cite></li><li class="elements-img"><em><a name="_06ae6b0c41b0277de6f1a7e282bb5457ea2b18a0" target="_self" href="http://highscalability.com/blog/2012/1/3/sponsored-post-red-5-studios-singlehop-spokeo-callfire-attri.html" inst_r="http://us.lrd.yahoo.com/_ylt=AnfneXDijrqekR9LP5iig65G2vAI;_ylu=X3oDMTI2M3ZubTJkBGlpZAMwNmFlNmIwYzQxYjAyNzdkZTZmMWE3ZTI4MmJiNTQ1N2VhMmIxOGEwBG5vaAM1BHBvcwM0BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2hpZ2hzY2FsYWJpbGl0eS5jb20vYmxvZy8yMDEyLzEvMy9zcG9uc29yZWQtcG9zdC1yZWQtNS1zdHVkaW9zLXNpbmdsZWhvcC1zcG9rZW8tY2FsbGZpcmUtYXR0cmkuaHRtbA--/RS=^ADAshRlg35UilbRSI5cZHyfXvkDpyo-" data-guid="426227:4867632:14130141">Sponsored Post: Red 5 Studios, SingleHop, Spokeo, Callfire, Attribution Modeling, Logic Monitor, New Relic, ScaleOut, AppDynamics, CloudSigma, ManageEngine, Site24x7</a></em> <q class="alt-text-color">-&nbsp;5&nbsp;days&nbsp;ago</q><cite>
+ Who&#39;s Hiring? 
+ 
+ Red 5 Studios.  Wanted: DBAs and Programmers interested in MySQL scalability and replication. If interested, please see us here .  
+ Callfire,  one of the largest cloud telepho...</cite></li><li class="elements-img"><em><a name="_fbb0d32f6b237dc9afc2722d0944a62776d17ff2" target="_self" href="http://highscalability.com/blog/2011/12/30/stuff-the-internet-says-on-scalability-for-december-30-2011.html" inst_r="http://us.lrd.yahoo.com/_ylt=AvKHcwDoBE_exHspECZsDERG2vAI;_ylu=X3oDMTI2Z3NydWlrBGlpZANmYmIwZDMyZjZiMjM3ZGM5YWZjMjcyMmQwOTQ0YTYyNzc2ZDE3ZmYyBG5vaAM1BHBvcwM1BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2hpZ2hzY2FsYWJpbGl0eS5jb20vYmxvZy8yMDExLzEyLzMwL3N0dWZmLXRoZS1pbnRlcm5ldC1zYXlzLW9uLXNjYWxhYmlsaXR5LWZvci1kZWNlbWJlci0zMC0yMDExLmh0bWw-/RS=^ADAVlwYFEoOrAjUwJI6ITOs3Y7AWqQ-" data-guid="426227:4867632:14375112">Stuff The Internet Says On Scalability For December 30, 2011</a></em> <q class="alt-text-color">-&nbsp;1&nbsp;week&nbsp;ago</q><cite>
+ Pork. The Other HighScalability: 
+ 
+ PlentyOfFish: 6 Billion Page Views ; World: info doubling every 2 years ; 2015: 7,910 exabytes of global digital data ; Khan Academy: 4 million uniques ; G+: 62 ...</cite></li></ul></div><div id="ft_b30812" class="ft"></div><div class="t-shadow"></div></div>
+<div id="d28f82" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_d28f82" class="hd"><span id='minmax--d28f82' class='mod-ec mod-collapse-icon'><a id='minmaxlink--d28f82' class='rc mod-ec'><span id='minmaxh--d28f82' class='h mod-ec'></span><span id='minmaxv--d28f82' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--d28f82' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-d28f82 tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--d28f82" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_d28f82" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_d28f82" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_d28f82" class="ft"></div><div class="t-shadow"></div></div>
+<div id="f7af8f" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_f7af8f" class="hd"><span id='minmax--f7af8f' class='mod-ec mod-collapse-icon'><a id='minmaxlink--f7af8f' class='rc mod-ec'><span id='minmaxh--f7af8f' class='h mod-ec'></span><span id='minmaxv--f7af8f' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--f7af8f' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title"      ><a href="http://onproductmanagement.net" title="On Product Management" id="ttlMdHdng-f7af8f" >On Product Management</a></h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--f7af8f" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_f7af8f" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_f7af8f" class="bd type_simple suid_38110013 "><input type="hidden" id="f7af8f_htmlstate" value="%7B%22has_descriptions%22%3A%221%22%2C%22ymy%3Adisplay%22%3A%22h%22%2C%22wm%22%3A0%2C%22fp%22%3Atrue%2C%22ar%22%3A0%7D" /><ul class="reader-off"><li class="elements-img"><em><a name="_93387f2c20b68c92c36ba941d76f0423d221bf6f" target="_self" href="http://feedproxy.google.com/~r/OnProductManagement/~3/89yBXYMyjjA/" inst_r="http://us.lrd.yahoo.com/_ylt=ApJkukvmA8Dnje8ALW3fW.RG2vAI;_ylu=X3oDMTI2dW11bzlmBGlpZAM5MzM4N2YyYzIwYjY4YzkyYzM2YmE5NDFkNzZmMDQyM2QyMjFiZjZmBG5vaAM1BHBvcwMxBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL09uUHJvZHVjdE1hbmFnZW1lbnQvfjMvODl5QlhZTXlqakEv/RS=^ADA4x7f91MrRqJZ7rEMz0Dp9V_E9bI-" data-guid="http://feedproxy.google.com/~r/OnProductManagement/~3/89yBXYMyjjA/">How to create a customer for life</a></em><cite>0savesSave by Saeed Khan It’s only the 3rd day of the year, and I already have an great customer experience story that I want to share. I have to say, that barring any changes in the policies of this ...</cite></li><li class="elements-img"><em><a name="_06f59dc67c748f054b781af1fbaad3b22c77b182" target="_self" href="http://feedproxy.google.com/~r/OnProductManagement/~3/n8CURUaPgsE/" inst_r="http://us.lrd.yahoo.com/_ylt=AhN_xdzfQdow8KxmoCkV8lBG2vAI;_ylu=X3oDMTI2NXBqa2FyBGlpZAMwNmY1OWRjNjdjNzQ4ZjA1NGI3ODFhZjFmYmFhZDNiMjJjNzdiMTgyBG5vaAM1BHBvcwMyBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL09uUHJvZHVjdE1hbmFnZW1lbnQvfjMvbjhDVVJVYVBnc0Uv/RS=^ADAsQJ8ceQaYWVbmhPl9cxWz1SGTmc-" data-guid="http://feedproxy.google.com/~r/OnProductManagement/~3/n8CURUaPgsE/">Lessons Learned in 2011</a></em><cite>0savesSave Hi This blog has a number of contributors. We tend to all post individually at various frequencies, but for the end of year, we thought it would be a good idea to look at one question and g...</cite></li><li class="elements-img"><em><a name="_f76a04eea02df06d5c3d0c97be97ff1f5cc00160" target="_self" href="http://feedproxy.google.com/~r/OnProductManagement/~3/OoXlyfyerXc/" inst_r="http://us.lrd.yahoo.com/_ylt=Ar5REErwRNZCx3Cmlhygkz1G2vAI;_ylu=X3oDMTI2NmtkdXNyBGlpZANmNzZhMDRlZWEwMmRmMDZkNWMzZDBjOTdiZTk3ZmYxZjVjYzAwMTYwBG5vaAM1BHBvcwMzBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL09uUHJvZHVjdE1hbmFnZW1lbnQvfjMvT29YbHlmeWVyWGMv/RS=^ADAYIAoN82ymSuEFhP3guAX.VHj7A8-" data-guid="http://feedproxy.google.com/~r/OnProductManagement/~3/OoXlyfyerXc/">Santa Claus is Coming to Town</a></em><cite>0savesSave This year’s holiday tune was a bit harder to write. It seems that people are all over the place with how their year has progressed – some good, some bad, some hurried, some slowed. But, isn...</cite></li><li class="elements-img"><em><a name="_9977c3438b2dc1784dd98efcc19ab279527a8296" target="_self" href="http://feedproxy.google.com/~r/OnProductManagement/~3/4FH2sgWZoCg/" inst_r="http://us.lrd.yahoo.com/_ylt=AltWgOUMGVrtmjhzf_23zgBG2vAI;_ylu=X3oDMTI2OW5nanNtBGlpZAM5OTc3YzM0MzhiMmRjMTc4NGRkOThlZmNjMTlhYjI3OTUyN2E4Mjk2BG5vaAM1BHBvcwM0BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL09uUHJvZHVjdE1hbmFnZW1lbnQvfjMvNEZIMnNnV1pvQ2cv/RS=^ADAGrbV6OP25qq5dUwuzI.wTBUWJBk-" data-guid="http://feedproxy.google.com/~r/OnProductManagement/~3/4FH2sgWZoCg/">Please vote for us – Canadian Blog Awards</a></em><cite>0savesSave Hi, Just a friendly request and reminder to please vote for us in the Canadian Blog Awards. This year, we’re nominated in 3 categories. Clicking eack link below will take you to the voting ...</cite></li><li class="elements-img"><em><a name="_2d9f1efb361861d8b051bc6193df2c8e8c1e7f5a" target="_self" href="http://feedproxy.google.com/~r/OnProductManagement/~3/VwddGBQRzjs/" inst_r="http://us.lrd.yahoo.com/_ylt=AuuE9E7C6PPe9QbgERUtM6JG2vAI;_ylu=X3oDMTI2OWJvN29zBGlpZAMyZDlmMWVmYjM2MTg2MWQ4YjA1MWJjNjE5M2RmMmM4ZThjMWU3ZjVhBG5vaAM1BHBvcwM1BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL09uUHJvZHVjdE1hbmFnZW1lbnQvfjMvVndkZEdCUVJ6anMv/RS=^ADA7HXTDqfZCloHzgMIqyfy5OPAt.U-" data-guid="http://feedproxy.google.com/~r/OnProductManagement/~3/VwddGBQRzjs/">Today’s Event: Global Product Management Talk on Product Strategy</a></em><cite>0savesSave Dear OnPM Readers, I will be at the Twitter Chat and Blog Talk Radio event today, organized by Global Product Management Talk.  If you are available, please join us at 4PM PDT today.  Detai...</cite></li></ul></div><div id="ft_f7af8f" class="ft"></div><div class="t-shadow"></div></div>
+<div id="b5fc7b" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_b5fc7b" class="hd"><span id='minmax--b5fc7b' class='mod-ec mod-collapse-icon'><a id='minmaxlink--b5fc7b' class='rc mod-ec'><span id='minmaxh--b5fc7b' class='h mod-ec'></span><span id='minmaxv--b5fc7b' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--b5fc7b' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-b5fc7b tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--b5fc7b" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_b5fc7b" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_b5fc7b" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_b5fc7b" class="ft"></div><div class="t-shadow"></div></div>
+<div id="e49e63" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_e49e63" class="hd"><span id='minmax--e49e63' class='mod-ec mod-collapse-icon'><a id='minmaxlink--e49e63' class='rc mod-ec'><span id='minmaxh--e49e63' class='h mod-ec'></span><span id='minmaxv--e49e63' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--e49e63' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title"      ><a href="http://www.smashingmagazine.com" title="Smashing Magazine Feed" id="ttlMdHdng-e49e63" >Smashing Magazine Feed</a></h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--e49e63" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_e49e63" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_e49e63" class="bd type_simple suid_38110013 "><input type="hidden" id="e49e63_htmlstate" value="%7B%22has_images%22%3A%221%22%2C%22has_descriptions%22%3A%221%22%2C%22ymy%3Adisplay%22%3A%22hi%22%2C%22wm%22%3A0%2C%22fp%22%3Atrue%2C%22ar%22%3A0%7D" /><ul class="reader-off"><li class="rich"><span class="pix mod-bdr" style="background-image:url(http://statisches.auslieferung.commindo-media-ressourcen.de/advertisement.gif)"><a name="_e6bfd6072dea9b6dd45340eb3db21650a065ca33" target="_self" href="http://www.smashingmagazine.com/2012/01/09/high-quality-free-fonts-2012/" data-guid="http://mgmt.smashingmagazine.com/?p=120954"></a></span><em><a name="_e6bfd6072dea9b6dd45340eb3db21650a065ca33" target="_self" href="http://www.smashingmagazine.com/2012/01/09/high-quality-free-fonts-2012/" inst_r="http://us.lrd.yahoo.com/_ylt=AgdIKxkzXKupddmN_hx5VpJG2vAI;_ylu=X3oDMTI2YXJmZmY3BGlpZANlNmJmZDYwNzJkZWE5YjZkZDQ1MzQwZWIzZGIyMTY1MGEwNjVjYTMzBG5vaAM1BHBvcwMxBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3d3dy5zbWFzaGluZ21hZ2F6aW5lLmNvbS8yMDEyLzAxLzA5L2hpZ2gtcXVhbGl0eS1mcmVlLWZvbnRzLTIwMTIv/RS=^ADAr1T_KJh3nTzTELKbNUhZjBCuu10-" data-guid="http://mgmt.smashingmagazine.com/?p=120954">New High-Quality Free Fonts</a></em> <q class="alt-text-color">-&nbsp;14&nbsp;hours&nbsp;ago</q><p>
+ 
+ 
+ 
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+ 
+ 
+ 
+ Every now and then, we look around, select fresh free high-qu...</p><div class="clear"></div><div class="separator alt-bg-color"></div></li><li class="elements-img"><em><a name="_40a7515b5349987474a51b608e0b5b18f9e45e64" target="_self" href="http://www.smashingmagazine.com/2012/01/06/adventures-in-the-third-dimension-css-3-d-transforms/" inst_r="http://us.lrd.yahoo.com/_ylt=AndLFenh5bEFnvCjT3BNlxZG2vAI;_ylu=X3oDMTI2b3ZzdXY1BGlpZAM0MGE3NTE1YjUzNDk5ODc0NzRhNTFiNjA4ZTBiNWIxOGY5ZTQ1ZTY0BG5vaAM1BHBvcwMyBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3d3dy5zbWFzaGluZ21hZ2F6aW5lLmNvbS8yMDEyLzAxLzA2L2FkdmVudHVyZXMtaW4tdGhlLXRoaXJkLWRpbWVuc2lvbi1jc3MtMy1kLXRyYW5zZm9ybXMv/RS=^ADATl2SXuGrI9fszPLnX7X8Ud1C4k4-" data-guid="http://mgmt.smashingmagazine.com/?p=122022">Adventures In The Third Dimension: CSS 3D Transforms</a></em> <q class="alt-text-color">-&nbsp;3&nbsp;days&nbsp;ago</q><cite>
+ 
+ 
+ 
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+ 
+ 
+ 
+ Back in 2009, the WebKit development team proposed a new exte...</cite></li><li class="elements-img"><em><a name="_ec01a7e10e4b8582d3bf9115d3d08e2218c0342d" target="_self" href="http://www.smashingmagazine.com/2012/01/05/how-to-create-custom-taxonomies-in-wordpress/" inst_r="http://us.lrd.yahoo.com/_ylt=ArzemZ9V_QbI7wjrrmb2ClRG2vAI;_ylu=X3oDMTI2bTZlbjRkBGlpZANlYzAxYTdlMTBlNGI4NTgyZDNiZjkxMTVkM2QwOGUyMjE4YzAzNDJkBG5vaAM1BHBvcwMzBHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3d3dy5zbWFzaGluZ21hZ2F6aW5lLmNvbS8yMDEyLzAxLzA1L2hvdy10by1jcmVhdGUtY3VzdG9tLXRheG9ub21pZXMtaW4td29yZHByZXNzLw--/RS=^ADAl8M4ov4ckQMJSexE3a37AREHk6w-" data-guid="http://mgmt.smashingmagazine.com/?p=121981">How To Create Custom Taxonomies In WordPress</a></em> <q class="alt-text-color">-&nbsp;4&nbsp;days&nbsp;ago</q><cite>
+ 
+ 
+ 
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+ 
+ 
+ 
+ WordPress 3 introduced custom taxonomies as a core feature. T...</cite></li><li class="elements-img"><em><a name="_4981caa1bf8e848bad4177b03aa33baef5e02748" target="_self" href="http://www.smashingmagazine.com/2012/01/04/stop-designing-pages-and-start-designing-flows/" inst_r="http://us.lrd.yahoo.com/_ylt=AgdItjd6HW3Tl8rDWKyOyLJG2vAI;_ylu=X3oDMTI2MmYzZGk5BGlpZAM0OTgxY2FhMWJmOGU4NDhiYWQ0MTc3YjAzYWEzM2JhZWY1ZTAyNzQ4BG5vaAM1BHBvcwM0BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3d3dy5zbWFzaGluZ21hZ2F6aW5lLmNvbS8yMDEyLzAxLzA0L3N0b3AtZGVzaWduaW5nLXBhZ2VzLWFuZC1zdGFydC1kZXNpZ25pbmctZmxvd3Mv/RS=^ADA_StuR6981.mGsjClqUZK0.rocxo-" data-guid="http://mgmt.smashingmagazine.com/?p=121940">Stop Designing Pages And Start Designing Flows</a></em> <q class="alt-text-color">-&nbsp;5&nbsp;days&nbsp;ago</q><cite>
+ 
+ 
+ 
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+ 
+ 
+ 
+ For designers, it’s easy to jump right into the design phase ...</cite></li><li class="elements-img"><em><a name="_a2521bb651fadc61fc35bc4696340f6ee0b2fe91" target="_self" href="http://www.smashingmagazine.com/2012/01/03/guideguide-free-plugin-for-dealing-with-grids-in-photoshop/" inst_r="http://us.lrd.yahoo.com/_ylt=AqiCwN6_rd0SfYSpO2lKVEpG2vAI;_ylu=X3oDMTI2cnQ2OG00BGlpZANhMjUyMWJiNjUxZmFkYzYxZmMzNWJjNDY5NjM0MGY2ZWUwYjJmZTkxBG5vaAM1BHBvcwM1BHJpZANfMzgxMTAwMTM-/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3d3dy5zbWFzaGluZ21hZ2F6aW5lLmNvbS8yMDEyLzAxLzAzL2d1aWRlZ3VpZGUtZnJlZS1wbHVnaW4tZm9yLWRlYWxpbmctd2l0aC1ncmlkcy1pbi1waG90b3Nob3Av/RS=^ADAEH98vX533IXfgfkSVA3stQ3UV3E-" data-guid="http://mgmt.smashingmagazine.com/?p=121634">GuideGuide: Free Plugin For Dealing With Grids In Photoshop</a></em> <q class="alt-text-color">-&nbsp;6&nbsp;days&nbsp;ago</q><cite>
+ 
+ 
+ 
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+ 
+ 
+ 
+ This article is the fourth in our new series that introduces ...</cite></li></ul></div><div id="ft_e49e63" class="ft"></div><div class="t-shadow"></div></div>
+<div id="fd3cab" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_fd3cab" class="hd"><span id='minmax--fd3cab' class='mod-ec mod-collapse-icon'><a id='minmaxlink--fd3cab' class='rc mod-ec'><span id='minmaxh--fd3cab' class='h mod-ec'></span><span id='minmaxv--fd3cab' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--fd3cab' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-fd3cab tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--fd3cab" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_fd3cab" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_fd3cab" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_fd3cab" class="ft"></div><div class="t-shadow"></div></div>
+<div id="d9c6e6" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_d9c6e6" class="hd"><span id='minmax--d9c6e6' class='mod-ec mod-collapse-icon'><a id='minmaxlink--d9c6e6' class='rc mod-ec'><span id='minmaxh--d9c6e6' class='h mod-ec'></span><span id='minmaxv--d9c6e6' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--d9c6e6' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-d9c6e6 tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--d9c6e6" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_d9c6e6" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_d9c6e6" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_d9c6e6" class="ft"></div><div class="t-shadow"></div></div>
+<div id="ae8101" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_ae8101" class="hd"><span id='minmax--ae8101' class='mod-ec mod-collapse-icon'><a id='minmaxlink--ae8101' class='rc mod-ec'><span id='minmaxh--ae8101' class='h mod-ec'></span><span id='minmaxv--ae8101' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--ae8101' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-ae8101 tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--ae8101" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_ae8101" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_ae8101" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_ae8101" class="ft"></div><div class="t-shadow"></div></div>
+<div id="f6d427" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_f6d427" class="hd"><span id='minmax--f6d427' class='mod-ec mod-collapse-icon'><a id='minmaxlink--f6d427' class='rc mod-ec'><span id='minmaxh--f6d427' class='h mod-ec'></span><span id='minmaxv--f6d427' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--f6d427' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-f6d427 tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--f6d427" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_f6d427" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_f6d427" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_f6d427" class="ft"></div><div class="t-shadow"></div></div>
+<div id="b17d90" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_b17d90" class="hd"><span id='minmax--b17d90' class='mod-ec mod-collapse-icon'><a id='minmaxlink--b17d90' class='rc mod-ec'><span id='minmaxh--b17d90' class='h mod-ec'></span><span id='minmaxv--b17d90' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--b17d90' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-b17d90 tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--b17d90" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_b17d90" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_b17d90" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_b17d90" class="ft"></div><div class="t-shadow"></div></div>
+<div id="a0e1a0" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_a0e1a0" class="hd"><span id='minmax--a0e1a0' class='mod-ec mod-collapse-icon'><a id='minmaxlink--a0e1a0' class='rc mod-ec'><span id='minmaxh--a0e1a0' class='h mod-ec'></span><span id='minmaxv--a0e1a0' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--a0e1a0' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-a0e1a0 tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--a0e1a0" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_a0e1a0" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_a0e1a0" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_a0e1a0" class="ft"></div><div class="t-shadow"></div></div>
+<div id="f4bb0d" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_f4bb0d" class="hd"><span id='minmax--f4bb0d' class='mod-ec mod-collapse-icon'><a id='minmaxlink--f4bb0d' class='rc mod-ec'><span id='minmaxh--f4bb0d' class='h mod-ec'></span><span id='minmaxv--f4bb0d' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--f4bb0d' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-f4bb0d tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--f4bb0d" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_f4bb0d" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_f4bb0d" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_f4bb0d" class="ft"></div><div class="t-shadow"></div></div>
+<div id="e5c822" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_e5c822" class="hd"><span id='minmax--e5c822' class='mod-ec mod-collapse-icon'><a id='minmaxlink--e5c822' class='rc mod-ec'><span id='minmaxh--e5c822' class='h mod-ec'></span><span id='minmaxv--e5c822' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--e5c822' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-e5c822 tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--e5c822" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_e5c822" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_e5c822" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_e5c822" class="ft"></div><div class="t-shadow"></div></div>
+<div id="b09b4d" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_b09b4d" class="hd"><span id='minmax--b09b4d' class='mod-ec mod-collapse-icon'><a id='minmaxlink--b09b4d' class='rc mod-ec'><span id='minmaxh--b09b4d' class='h mod-ec'></span><span id='minmaxv--b09b4d' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--b09b4d' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-b09b4d tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--b09b4d" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_b09b4d" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_b09b4d" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_b09b4d" class="ft"></div><div class="t-shadow"></div></div>
+<div id="a4644c" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_a4644c" class="hd"><span id='minmax--a4644c' class='mod-ec mod-collapse-icon'><a id='minmaxlink--a4644c' class='rc mod-ec'><span id='minmaxh--a4644c' class='h mod-ec'></span><span id='minmaxv--a4644c' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--a4644c' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-a4644c tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--a4644c" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_a4644c" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_a4644c" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_a4644c" class="ft"></div><div class="t-shadow"></div></div>
+<div id="b0f683" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_b0f683" class="hd"><span id='minmax--b0f683' class='mod-ec mod-collapse-icon'><a id='minmaxlink--b0f683' class='rc mod-ec'><span id='minmaxh--b0f683' class='h mod-ec'></span><span id='minmaxv--b0f683' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--b0f683' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-b0f683 tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--b0f683" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_b0f683" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_b0f683" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_b0f683" class="ft"></div><div class="t-shadow"></div></div>
+<div id="c9d518" class="mod " inst_b="{&quot;suid&quot;:&quot;38110013&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_c9d518" class="hd"><span id='minmax--c9d518' class='mod-ec mod-collapse-icon'><a id='minmaxlink--c9d518' class='rc mod-ec'><span id='minmaxh--c9d518' class='h mod-ec'></span><span id='minmaxv--c9d518' class='v mod-ec'><span class='lbl'>&nbsp;</span></span><span id='minmaxlbl--c9d518' class='lbl'>Expand app</span></span></a><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-c9d518 tabindex=0    >(Title Temporarily Unavailable)</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--c9d518" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_c9d518" class="ed type_simple_ed type_simple_edit suid_38110013_ed suid_38110013_edit "></div><div id="bd_c9d518" class="bd type_simple suid_38110013 "><div class="loading"><!--<div class="progress"></div>-->Loading...</div></div><div id="ft_c9d518" class="ft"></div><div class="t-shadow"></div></div>
+<div id="eef07d" class="mod " inst_b="{&quot;suid&quot;:&quot;40769097&quot;,&quot;ud&quot;:&quot;geo&quot;}"><div id="hd_eef07d" class="hd"><div class="mod-title-notifications-container"><h2 class="mod-title" id=ttlMdHdng-eef07d tabindex=0    >Advertisement</h2><span class="mod-notifications mod-notify"></span></div><div class="mod-button-wrapper"><a id="opt--eef07d" class="mod-options mod-menu action_commands" href="javascript:void(null);">Options</a></div></div><div id="ed_eef07d" class="ed type_myyads_ed type_myyads_edit suid_40769097_ed suid_40769097_edit "></div><div id="bd_eef07d" class="bd type_myyads suid_40769097 "><div class="advertisement" id="ad-lrec"><div class="bd" ><script type="text/javascript">
+                    if(!window.globAdConfig){
+                        window.globAdConfig = {};
+                    }
+                    window.globAdConfig.LREC = {html:"<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=300 HEIGHT=250 SRC=\"http://ad.yieldmanager.com/st?_PVID=EWb112KL8NKMauuTTeqv0QT3RDzjmk8LwxIAB_ic&ad_type=iframe&ad_size=300x250&site=139866&section_code=14486015&cb=1326170901130679&yud=zip%3D60622%26ycg%3Dm%26yyob%3D1980&pub_redirect_unencoded=1&pub_redirect=http://global.ard.yahoo.com/SIG=15nl16q9g/M=787833.14486015.14323838.12858768/D=my/S=150002246:LREC/Y=YAHOO/EXP=1326178101/L=EWb112KL8NKMauuTTeqv0QT3RDzjmk8LwxIAB_ic/B=8KiXAWKL5Us-/J=1326170901130679/K=ZOplsFfF9sLoV2bm7yFV1w/A=6284525/R=0/*\"></IFRAME>", csc:"<scr"+"ipt language=javascr"+"ipt>\nif(window.yzq_d==null)window.yzq_d=new Object();\nwindow.yzq_d['8KiXAWKL5Us-']='&U=13gkjpa1r%2fN%3d8KiXAWKL5Us-%2fC%3d787833.14486015.14323838.12858768%2fD%3dLREC%2fB%3d6284525%2fV%3d1';\n</scr"+"ipt><noscr"+"ipt><img width=1 height=1 alt=\"\" src=\"http://us.bc.yahoo.com/b?P=EWb112KL8NKMauuTTeqv0QT3RDzjmk8LwxIAB_ic&T=19shklfvn%2fX%3d1326170901%2fE%3d150002246%2fR%3dmy%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d2900225676%2fH%3dY29udGVudD0ibm9fZXhwYW5kYWJsZTthamF4X2NlcnRfZXhwYW5kYWJsZTsiIHNlcnZlSWQ9IkVXYjExMktMOE5LTWF1dVRUZXF2MFFUM1JEemptazhMd3hJQUJfaWMiIHNpdGVJZD0iNDQ2MzU1MSIgdFN0bXA9IjEzMjYxNzA5MDEwODc3NTciIA--%2fQ%3d-1%2fS%3d1%2fJ%3d68F38B62&U=13gkjpa1r%2fN%3d8KiXAWKL5Us-%2fC%3d787833.14486015.14323838.12858768%2fD%3dLREC%2fB%3d6284525%2fV%3d1\"></noscr"+"ipt>"};
+				  </script><iframe id="adbd-lrec" width="100%" height=270 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no style="margin-top:10px;"></iframe><div><a class="small" href="http://feedback.help.yahoo.com/feedback.php?.src=MY&.from=new_lrec&.done=http://my.yahoo.com">Ad Feedback</a></div></div></div><script>var gAdEnd = Number(new Date());</script></div><div id="ft_eef07d" class="ft"></div><div class="t-shadow"></div></div></div></td><td id="c1-space" class="spacer"><div style="width:10px;">&nbsp;</div></td>
+                <!-- START COLUMN c2-->
+                <td id="c2" scope="col" class="last" style=""><div style="width:25.5em;visibility:hidden;height:0;overflow:hidden"></div>
+                <!-- start: your content here -->
+                <div id="c2-target" class="d-target"></div>
+             </tr></table>
+             <!-- end: stack grids here -->
+           </div></div><div id="my-promo-hover" class="my" style="display:none"></div><div id="column-drag" style="display:none;"></div>
+		  <!-- end: primary column from outer template -->
+		  <!-- start: secondary column from outer template --><!-- end: secondary column from outer template --></div>        <!-- Begin ft div -->
+<div id="ft"><!-- gd2-status-2 --><!-- SpaceID=150002246 loc=FSRVY noad -->
+<!--QYZ ,;;FSRVY;150002246;2;--> <!-- SpaceID=150002246 loc=FR01 noad -->
+<!--QYZ ,;;;150002246;11;--><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['7qiXAWKL5Us-']='&U=12di5f3qf%2fN%3d7qiXAWKL5Us-%2fC%3d-1%2fD%3dFSRVY%2fB%3d-1%2fV%3d0';
+</script><noscript><img width=1 height=1 alt="" src="http://us.bc.yahoo.com/b?P=EWb112KL8NKMauuTTeqv0QT3RDzjmk8LwxIAB_ic&T=19srmi9m1%2fX%3d1326170901%2fE%3d150002246%2fR%3dmy%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d3493741553%2fH%3dY29udGVudD0ibm9fZXhwYW5kYWJsZTthamF4X2NlcnRfZXhwYW5kYWJsZTsiIHNlcnZlSWQ9IkVXYjExMktMOE5LTWF1dVRUZXF2MFFUM1JEemptazhMd3hJQUJfaWMiIHNpdGVJZD0iNDQ2MzU1MSIgdFN0bXA9IjEzMjYxNzA5MDEwODc3NTciIA--%2fQ%3d-1%2fS%3d1%2fJ%3d68F38B62&U=12di5f3qf%2fN%3d7qiXAWKL5Us-%2fC%3d-1%2fD%3dFSRVY%2fB%3d-1%2fV%3d0"></noscript>         <div id="rapidinit" class="dummydiv" style="display:none;">
+         <a href="javascript:void(0);">Dummy</a>
+         </div>            <div class="small">
+            <h2 class="a11y">Product Information</h2>
+            <h3 class="a11y">My Yahoo! Information</h3>
+            <ul class="myi ymy-pipedlist"><li><a href="/us/static/whatsnew.html" inst_r="/us/static/whatsnew.html;_ylt=AubUCErAGHY3k2JP7GsEBfBG2vAI">Page Tour</a><span class="pipe"></span></li><li><a href="http://help.yahoo.com/us/tutorials/my2/index.html" inst_r="http://us.lrd.yahoo.com/_ylt=Ak8n82Hb4d9AhbpWq5LCUMpG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2hlbHAueWFob28uY29tL3VzL3R1dG9yaWFscy9teTIvaW5kZXguaHRtbA--/RS=^ADAK9hOTser4h8LgpQBHPrv4d9eNck-">Tutorials</a><span class="pipe"></span></li><li><a href="http://www.myyblog.com" inst_r="http://us.lrd.yahoo.com/_ylt=AhGpT4M264JoL_QbZzyBYgVG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3d3dy5teXlibG9nLmNvbS8-/RS=^ADAslg6LJxz4neoLPqS1OLDZ_dUYPU-">Blog</a><span class="pipe"></span></li><li><a target=_self href="http://feedback.help.yahoo.com/feedback.php?.src=MY&.from=p358.my.bf1.yahoo.com&.done=http://my.yahoo.com" inst_r="http://us.lrd.yahoo.com/_ylt=AnvUIj0gjgVg64GtOW_xA.tG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2ZlZWRiYWNrLmhlbHAueWFob28uY29tL2ZlZWRiYWNrLnBocD8uc3JjPU1ZJi5mcm9tPXAzNTgubXkuYmYxLnlhaG9vLmNvbSYuZG9uZT1odHRwOi8vbXkueWFob28uY29t/RS=^ADAuxp_dKUprtJ2foOMbnQnZWq17hk-">Send Feedback</a><span class="pipe"></span></li><li><a href="http://developer.yahoo.com/myyahoo/" inst_r="http://us.lrd.yahoo.com/_ylt=AtaiPKj1IOE43sdvfeh9KyhG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2RldmVsb3Blci55YWhvby5jb20vbXl5YWhvby8-/RS=^ADAOBgNSeoZ7y9EAY8xh3D7nQpKa.I-">Develop for My Yahoo!</a></li>            </ul>
+            <h3 class="a11y">Corporate Information</h3>
+            <ul class="yci ymy-pipedlist">        <li><a href="http://privacy.yahoo.com/privacy/us/my/" inst_r="http://us.lrd.yahoo.com/_ylt=AmSBn7iPaJx__uyXlqjLgf1G2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL3ByaXZhY3kueWFob28uY29tL3ByaXZhY3kvdXMvbXkv/RS=^ADAI0wuutpGSMd7g5DDIu2.m641QVI-">Privacy (<span class="red">Updated</span>)</a><span class="pipe"></span></li><li><a href="http://docs.yahoo.com/info/copyright/copyright.html" inst_r="http://us.lrd.yahoo.com/_ylt=AsxfEk3pfPd_XCx8TKuwiYxG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2RvY3MueWFob28uY29tL2luZm8vY29weXJpZ2h0L2NvcHlyaWdodC5odG1s/RS=^ADAfLFkD09yYJshkhjGh0S.dAx1Ojk-">Copyright/IP Policy</a><span class="pipe"></span></li><li><a href="http://docs.yahoo.com/info/terms/" inst_r="http://us.lrd.yahoo.com/_ylt=Aspr0H0IRweScwOySL4vNBVG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2RvY3MueWFob28uY29tL2luZm8vdGVybXMv/RS=^ADAv5E_HZ41kDZfHKC64.UGWGZyRQI-">Terms of Service</a><span class="pipe"></span></li><li><a href="http://info.yahoo.com/relevantads/" inst_r="http://us.lrd.yahoo.com/_ylt=AvbS4a2YwP.vf0Agm0rMlfFG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2luZm8ueWFob28uY29tL3JlbGV2YW50YWRzLw--/RS=^ADA_vmvx0Dp18ErDarnLNVg8nW6cxo-">About Our Ads</a><span class="pipe"></span></li><li><a href="http://help.yahoo.com/help/us/my/myyahoo" inst_r="http://us.lrd.yahoo.com/_ylt=AqIZKv2VaJNneWWdsK93gIpG2vAI/RV=1/RE=1326257301/RH=dXMubHJkLnlhaG9vLmNvbQ--/RB=ajB1vhGP8rRUY.6Xx_6mJXHOExs-/RU=aHR0cDovL2hlbHAueWFob28uY29tL2hlbHAvdXMvbXkvbXl5YWhvbw--/RS=^ADA2XQwGqZ78LCoKWPAqd471Hgt7V4-">Help</a></li>            </ul>
+            <p>Copyright &copy; 2012 Yahoo! Inc. All rights reserved.</p>
+            </div>                  </div>
+<!-- End ft div -->
+        </td></tr></table></div>
+<!-- End doc div --><iframe id="fccall" width="800" height="800" style="display:none"></iframe>        <script>
+if ('undefined' != typeof(rt_LogTime)) { rt_LogTime('t_rtpage', gTop); }
+var gJSStart = Number(new Date());
+</script><script type="text/javascript" src="http://l.yimg.com/gh/lib/my/js/core_seed_0.0.6.js"></script>
+<script type="text/javascript">js=["http:\/\/l.yimg.com\/zz\/combo?gh\/lib\/my\/js\/core_0.1.389.js&gh\/lib\/my\/js\/components\/modoptions_0.0.34.js&gh\/lib\/yui\/2.5.1\/build\/selector\/selector-beta-min.js&gh\/lib\/my\/js\/components\/windowshade_0.0.7.js&gh\/lib\/my\/js\/yui3_0.0.11.js&gh\/lib\/my\/js\/yap_0.1.32.js&gh\/lib\/my\/js\/components\/colresize_0.1.10.js&gh\/lib\/my\/js\/controls\/media_0.1.13.js&gh\/lib\/my\/js\/modules\/type_simple_0.1.71.js&gh\/lib\/my\/js\/controls\/tabset_0.1.28.js&gh\/lib\/my\/js\/modules\/type_myyads_0.1.2.js&gh\/lib\/my\/js\/components\/uh_0.0.2.js&gh\/lib\/my\/js\/components\/showcase_0.1.51.js&gh\/lib\/my\/js\/components\/pageoptions_0.1.18.js&gh\/lib\/my\/js\/components\/mobilizer_init_0.0.3.js","http:\/\/l.yimg.com\/a\/lib\/darla\/fc_0.2.9.js","http:\/\/l.yimg.com\/a\/lib\/darla\/util_0.2.6.js","http:\/\/l.yimg.com\/a\/lib\/darla\/renderers\/complex_renderer_0.3.0.js","http:\/\/l.yimg.com\/lh\/mbz\/loader-min.js"];</script><script type='text/javascript'>
+var gFCConfig, gJSLoad, gJSDone;
+var oConfig =
+{"props":{"libRoot":"http:\/\/l.yimg.com\/gh\/lib\/","comboSvr":"http:\/\/l.yimg.com\/zz\/combo?","comboAppend":"gh\/lib\/","comboEnabled":"1","isLwp":false,"crumb":"I2tSUzMnN2eldDUjVQR3g.","deferredBatchSize":"20","uh_fulljs":"http:\/\/l.yimg.com\/zz\/combo?kx\/ucs\/common\/js\/1\/setup-min.js&kx\/ucs\/sts\/js\/83\/skip-min.js&kx\/ucs\/menu_utils\/js\/148\/menu_utils_v2-min.js&kx\/ucs\/username\/js\/33\/user_menu-min.js&kx\/ucs\/help\/js\/35\/help_menu-min.js&kx\/ucs\/utility_link\/js\/15\/utility_menu-min.js&kx\/ucs\/common\/js\/127\/logo_debug-min.js&kx\/ucs\/common\/js\/1\/setup-min.js&kx\/ucs\/common\/js\/131\/jsonp-super-cached-min.js&kx\/ucs\/avatar\/js\/14\/avatar-min.js&kx\/ucs\/common\/js\/1\/setup-min.js&kx\/ucs\/common\/js\/131\/jsonp-cached-min.js&kx\/ucs\/notif_v2\/js\/60\/notifications_bootstrap-min.js&kx\/ucs\/common\/js\/1\/setup-min.js&kx\/ucs\/mailcount\/js\/21\/mailcount-min.js","jslazyload":"1","yapiframed":"1","maxviewwidth":"770px","yapmaximizeenabled":"1","yapnotificationsenabled":"1","rapidconfdata":{"eef07d":"LREC
+	Ad","rapidinit":"TotalPageView"},"currPageModIdsList":["c23bcd","dc4795","cbe2e3","ebe8dc","da5fb0","b30812","d28f82","f7af8f","b5fc7b","e49e63","fd3cab","d9c6e6","ae8101","f6d427","b17d90","a0e1a0","f4bb0d","e5c822","b09b4d","a4644c","b0f683","c9d518","eef07d"],"hostname":"p358.my.bf1.yahoo.com","requri":"\/p\/7.html"},"mods":[{"props":{"confirmModuleDelete":1,"maxPages":"9","yapmodSuid":"15296910","cBeaconUrl":"http:\/\/b.capi.yahoo.com\/b.gif","user":"demouser","articlePreview":"1","articleReader":0,"articleTimestamp":"1","autoRefresh":"15","searchAssist":1,"selectpagewhileaddingmodule":1,"isNewUser":0,"partner":0,"cobrand":"my","linkSameWindow":1,"intl":"us","np":0,"lang":"en-US","ultSpaceId":"150002246","lastButOneTab":"my-vsearch-4","currentPage":"p7","id":"myy","type":"myy","ns":"type_myy"},"prefs":{"location.woeid":12784276,"location.city":"Chicago","location.state":"IL","location.zip":"60622","location.country":"USA","location.countryshortcode":"","location.iso2countrycode":"","location.isdefault":"1","location.intl":"us"},"strs":{"str.module.expand":"Expand app","str.module.collapse":"Collapse module","str.editpanel.loading":"Loading...","str.portalMgr.deletePage.confirmation":"Are you sure you want to delete this tab?","str.portalMgr.deletePage.atLeastOnePage":"You must have at least one tab.","str.portalMgr.deletePage.Yes":"Yes","str.portalMgr.deletePage.No":"No","str.portalMgr.deletePage.Ok":"Ok","str.portalMgr.deleteModule.Yes":"Remove","str.portalMgr.deleteModule.No":"Cancel","str.portalMgr.deleteModule.confirmation":"Are you sure you want to remove this App from My Yahoo!?","str.portalMgr.deleteYapModule.confirmation":"Are you sure you want to remove this App from My Yahoo!?","str.portalMgr.deleteYapModule.removeAll":"Also remove my other instances of this App from Yahoo!","str.portalMgr.deleteYapModule.removeMy":"Remove only from My Yahoo!","str.portalMgr.addPage.maxPages":"You have reached your max number of tabs.","str.portalMgr.arcadeRequest.fatalError":"My Yahoo is experiencing some technical difficulties. Click OK to reload your page.","str.portalMgr.arcadeRequest.globalError":"Warning: One or more errors occured in your page.","str.simpleDialog.closeText":"Close Dialog","str.module.options.settings":"Settings","str.module.options.remove":"Remove","str.module.options.moreinfo":"More Info","str.module.options.largeview":"Large View","str.editpanel.share":"Share","str.editpanel.alerts":"Alerts","str.module.refresh":"Refresh","str.module.noedit":"No settings available for this application","str.module.noalert":"No alerts available for this application","str.maxview.goback":"Back to My Yahoo!","str.theme.migrate_message":"You have an old My Yahoo! color selection. You will not be able to go back to this setting if you save a new My Yahoo! color.","str.homepage.popup":"<strong>Yahoo!<\/strong><\/a><ol><li>Drag the purple \"Y!\" on the left to the \"Home\" icon in your toolbar, and drop it there.<\/li><li>Select \"Yes\" from the pop-up window.<\/li><li>You're done!<\/li><\/ol>","str.homepage.alert":"Your home page is now My Yahoo!\\nThe home button of your browser goes directly to My Yahoo!","str.theme.current_icon":"http:\/\/us.i1.yimg.com\/us.yimg.com\/i\/us\/my\/mw\/th\/white\/swatch_wht2.gif","str.theme.current_name":"Old Theme","STR.USER_PANEL.PIN":"Add Quicklinks to your page","STR.USER_PANEL.UNPIN":"Minimize Quicklinks","STR.USER_PANEL.QUICKLINKS":"Quicklinks","str.vsearch.search":"Search","str.vsearch.actionurl":"http:\/\/search.yahoo.com\/search","SearchAssist.URL":"http:\/\/sugg.search.yahoo.com\/sg\/?output=fxjsonp&nresults={maxResults}&command={query}","SearchAssist.Enabled":"true","URL.ADD_PAGE":"\/add\/page;_ylt=Au56jY4_lmLE4itOAOlv1jhG2vAI?.crumb=I2tSUzMnN2eldDUjVQR3g.&frompg=p7","STR.MENU.CHECKED":"(checked)","STR.SHARING.CHECK_ADDRESS_FORMAT":"Please enter valid email address (each seperated by comma)","str.rss.reader.readerName":"My Yahoo! Reader","str.rss.reader.labelClose":"Close","str.rss.reader.colapseName":"Hide article list","str.rss.reader.expandName":"Display article list","str.rss.reader.readerLogoSrc":"http:\/\/l.yimg.com\/a\/lib\/mw\/type_simple_mrar_logo.gif","str.rss.reader.ysmTitle":"SPONSORED LINKS","str.rss.reader.helpName":"what's this","str.rss.reader.helpContent":"The Reader lets you to read an article without ever leaving My Yahoo!. It is available when the publisher offers the full article.","str.rss.reader.disableForThisModule":"Disable for this feed","str.rss.reader.disableForAllModule":"Disable for all feeds","str.rss.reader.disableForAllModuleConfirm":"Are you sure you want to disable the Reader for all apps?","str.rss.reader.disableForAllModuleConfirmPS":"If you disable the Reader, then clicking a link in any feed will take you to the publisher's site. You can enable this feature again by clicking \"More Options \u203a Reader\" .","str.rss.reader.confirm.yes":"Yes","str.rss.reader.confirm.no":"No","str.rss.module.turnReaderOff":"Turn Reader Off","str.rss.module.turnReaderOn":"Turn Reader On","str.rss.module.readerOn":"Reader is <b>ON<\/b>","str.rss.module.welcomeHeading":"Welcome to the My Yahoo! Reader","str.rss.module.welcomeDesc":"The Reader enables the reading of articles without leaving My Yahoo!. Full or partial content will display depending on\nwhat the publisher makes available.","str.rss.module.nothanks":"No thanks, turn this off","str.rss.module.start":"Start reading","str.rss.module.turnoff":"Turn Reader off"},"res":{"js":{"core_seed":1,"core":1,"module_options":1,"selector":1,"windowshade":1,"yui3":1,"yap":1,"colresize":1,"media":1,"type_simple":1,"darla_fc":1,"darla_util":1,"darla_render":1,"tabset":1,"type_myyads":1,"uh_my_header":1,"showcase":1,"pageoptions":1,"mobilizer":1,"mobilizer_init":1},"css":{"windowshade_css":1,"core_css":1,"module_options_css":1,"type_placeholder_css":1,"type_simple_css":1,"tabset_css":1,"uh_loader_css4":1,"uh_loader_css3":1,"uh_loader_css2":1,"uh_loader_css1":1,"uh_loader_css":1,"uh_my_header_css":1,"showcase_css":1}},"state":{"view":"default"},"data":{"pages":[{"id":"p2","name":"Financial","isDefault":0},{"id":"p3","name":"Local","isDefault":0},{"id":"p1","name":"News","isDefault":0},{"id":"p5","name":"Professional","isDefault":0},{"id":"p7","name":"Tech Rags","isDefault":1},{"id":"p4","name":"Periodicals","isDefault":0},{"id":"p6","name":"Art","isDefault":0},{"id":"p8","name":"Music","isDefault":0}],"trough":[{"props":{"id":"ynav","type":"ynav","ns":"type_ynav","contentId":"5951282","tags":[],"title":"Yahoo! Services","icon":"","shortTitle":"Yahoo! Services","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"defer":false,"collapsed":0},"prefs":{"isc":0,"_mc":0}}],"modules":[{"props":{"feedUrl":"http:\/\/www.boxesandarrows.com\/rss.xml","id":"c23bcd","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"Boxes and Arrows","icon":"","shortTitle":"Boxes and Arrows","detailUrl":"http:\/\/www.boxesandarrows.com\/","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"view":"default","defer":false,"collapsed":0},"prefs":{"me":5,"ds":"hi","ts":"a","mea":-1,"wm":0,"mar":"1","isc":"0"}},{"props":{"feedUrl":"http:\/\/feeds.feedburner.com\/AmazonWebServicesBlog","id":"dc4795","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"Amazon Web Services Blog","icon":"","shortTitle":"Amazon Web Services Blog","detailUrl":"http:\/\/aws.typepad.com\/aws\/","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"view":"default","defer":false,"collapsed":0},"prefs":{"me":5,"ds":"hi","ts":"a","mea":-1,"wm":0,"mar":"1","isc":"0"}},{"props":{"feedUrl":"http:\/\/feeds.feedburner.com\/UXM","id":"cbe2e3","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"UX Magazine","icon":"","shortTitle":"UX Magazine","detailUrl":"http:\/\/uxmag.com","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"view":"default","defer":false,"collapsed":0},"prefs":{"me":5,"ds":"hi","ts":"a","mea":-1,"wm":0,"mar":"1","isc":"0"}},{"props":{"feedUrl":"http:\/\/feeds.feedburner.com\/startup\/lessons\/learned","id":"ebe8dc","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"Lessons Learned","icon":"","shortTitle":"Lessons Learned","detailUrl":"http:\/\/www.startuplessonslearned.com\/","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"view":"default","defer":false,"collapsed":0},"prefs":{"me":5,"ds":"hi","ts":"a","mea":-1,"wm":0,"mar":"1","isc":"0"}},{"props":{"feedUrl":"http:\/\/www.webreep.com\/blog\/syndication.axd","id":"da5fb0","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"view":"default","defer":false,"collapsed":0},"prefs":{"me":5,"ds":"hi","ts":"a","mea":-1,"wm":0,"mar":-1,"isc":"0"}},{"props":{"feedUrl":"http:\/\/highscalability.com\/rss.xml","id":"b30812","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"High Scalability","icon":"","shortTitle":"High Scalability","detailUrl":"http:\/\/highscalability.com\/blog\/","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"view":"default","defer":false,"collapsed":0},"prefs":{"me":5,"ds":"hi","ts":"a","mea":-1,"wm":0,"mar":"1","isc":"0"}},{"props":{"feedUrl":"http:\/\/www.mysqlperformanceblog.com\/feed\/","id":"d28f82","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"props":{"feedUrl":"http:\/\/feeds.feedburner.com\/OnProductManagement","id":"f7af8f","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"On Product Management","icon":"","shortTitle":"On Product Management","detailUrl":"http:\/\/onproductmanagement.net","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"view":"default","defer":false,"collapsed":0},"prefs":{"me":5,"ds":"hi","ts":"a","mea":-1,"wm":0,"mar":"1","isc":"0"}},{"props":{"feedUrl":"http:\/\/www.leanessays.com\/feeds\/posts\/default","id":"b5fc7b","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"props":{"feedUrl":"http:\/\/rss1.smashingmagazine.com\/feed\/","id":"e49e63","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"Smashing Magazine Feed","icon":"","shortTitle":"Smashing Magazine Feed","detailUrl":"http:\/\/www.smashingmagazine.com","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"view":"default","defer":false,"collapsed":0},"prefs":{"me":5,"ds":"hi","ts":"a","mea":-1,"wm":0,"mar":"1","isc":"0"}},{"props":{"feedUrl":"http:\/\/blog.zawodny.com\/feed\/","id":"fd3cab","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"props":{"feedUrl":"http:\/\/teddziuba.com\/atom.xml","id":"d9c6e6","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"props":{"feedUrl":"http:\/\/feeds.feedburner.com\/DavidAlfaroScrumCostaRica","id":"ae8101","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"props":{"feedUrl":"http:\/\/www.svpg.com\/articles\/rss","id":"f6d427","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"props":{"feedUrl":"http:\/\/mysqlha.blogspot.com\/feeds\/posts\/default","id":"b17d90","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"props":{"feedUrl":"http:\/\/blog.8thlight.com\/feed\/atom.xml","id":"a0e1a0","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"props":{"feedUrl":"http:\/\/mysqldba.blogspot.com\/feeds\/posts\/default","id":"f4bb0d","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"props":{"feedUrl":"http:\/\/allaboutproductmanagement.blogspot.com\/feeds\/posts\/default\/","id":"e5c822","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"props":{"feedUrl":"http:\/\/feeds.goodproductmanager.com\/AskAGoodProductManager","id":"b09b4d","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"props":{"feedUrl":"http:\/\/feeds.feedburner.com\/TynerBlain","id":"a4644c","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"props":{"feedUrl":"http:\/\/feeds.feedburner.com\/LinuxMagazine","id":"b0f683","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"props":{"feedUrl":"http:\/\/dev.lithify.me\/lithium\/wiki\/blog.rss","id":"c9d518","type":"simple","ns":"type_simple","contentId":"38110013","tags":[],"title":"(Title Temporarily Unavailable)","icon":"","shortTitle":"(Title Temporarily Unavailable)","detailUrl":"","chromecolor":"blue","usTitle":""},"state":{"alertsEnabled":true,"isConfigurable":true,"defer":true,"collapsed":0}},{"state":{"disablePageMove":true,"view":"default","defer":false,"collapsed":0,"notRemovable":true},"props":{"id":"eef07d","type":"myyads","ns":"type_myyads","contentId":"40769097","tags":[],"title":"Advertisement","icon":"","shortTitle":"Advertisement","detailUrl":"","chromecolor":"blue","usTitle":"LREC Ad"},"prefs":{"isc":0,"_mc":0}}],"layout":[{"id":"c1","modules":["c23bcd","dc4795","cbe2e3","ebe8dc","da5fb0","b30812","d28f82","f7af8f","b5fc7b","e49e63","fd3cab","d9c6e6","ae8101","f6d427","b17d90","a0e1a0","f4bb0d","e5c822","b09b4d","a4644c","b0f683","c9d518","eef07d"]},{"id":"c2","modules":[]}],"deferAddMod":[]}}]}
+if ( "undefined" != typeof(rt_SetComment) ) { rt_SetComment("c103_m23_0x0_th728_s22"); }
+setTimeout(function() {
+    YAHOO.util.Get.script(js, {
+        onSuccess: function() {
+                    (function() {
+                var columns = ["c1", "c2", "c3", "c4"];
+                var column;
+                var YUD = YAHOO.util.Dom;
+                for(columnId in columns) {
+                    var colEl = YUD.get(columns[columnId]);
+                    if(colEl != null) {
+                        if(colEl.offsetWidth < 400) {
+                            YUD.addClass(colEl, 'x-narrowCol');
+                        } else if(colEl.offsetWidth > 400 && colEl.offsetWidth < 500) {
+                            YUD.addClass(colEl, 'narrowCol');
+                        } else if(colEl.offsetWidth > 500 && colEl.offsetWidth < 600) {
+                            YUD.addClass(colEl, 'mediumCol');
+                        } else {
+                            YUD.addClass(colEl, 'wideCol');
+                        }
+                    }
+                }
+            })();
+
+            gJSLoad = Number(new Date());
+            if(typeof oConfig.props.globalErrors === "string") {
+                // we have some errors to show
+                YAHOO.My.UI.Dialog.alert(oConfig.props.globalErrors);
+            }
+        gFCConfig = {
+            callFrame: "fccall",
+            callScript: "/darla/fc.php",
+            rotation: 5000,
+            autoRotation: false,
+            property: 'my',
+            beaconType: 'csc',
+            beaconsDisabled: true,
+            destinationMap: {},
+            events: {}
+        };
+        gFCConfig.destinationMap = {"LREC":["adbd-lrec"]};
+        gFCConfig.events = {"LREC":{"lv":2,"sp":"150002246","ps":"adbd-lrec","npv":true},"default":{"lv":2,"sp":"150002246","ps":"LREC","npv":true}};
+        if(YAHOO.ads.darla) {
+            var adloc;
+            YAHOO.ads.darla._end_of_page_js="<scr"+"ipt language=javascr"+"ipt>\nif(window.yzq_p==null)document.write(\"<scr\"+\"ipt language=javascr"+"ipt src=http://l.yimg.com/d/lib/bc/bc_2.0.5.js></scr\"+\"ipt>\");\n</scr"+"ipt><scr"+"ipt language=javascr"+"ipt>\nif(window.yzq_p)yzq_p('P=EWb112KL8NKMauuTTeqv0QT3RDzjmk8LwxIAB_ic&T=19l4q4jql%2fX%3d1326170901%2fE%3d150002246%2fR%3dmy%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d29341581%2fH%3dY29udGVudD0ibm9fZXhwYW5kYWJsZTthamF4X2NlcnRfZXhwYW5kYWJsZTsiIHNlcnZlSWQ9IkVXYjExMktMOE5LTWF1dVRUZXF2MFFUM1JEemptazhMd3hJQUJfaWMiIHNpdGVJZD0iNDQ2MzU1MSIgdFN0bXA9IjEzMjYxNzA5MDEwODc3NTciIA--%2fS%3d1%2fJ%3d68F38B62');\nif(window.yzq_s)yzq_s();\n</scr"+"ipt><noscr"+"ipt><img width=1 height=1 alt=\"\" src=\"http://us.bc.yahoo.com/b?P=EWb112KL8NKMauuTTeqv0QT3RDzjmk8LwxIAB_ic&T=19sotlhrt%2fX%3d1326170901%2fE%3d150002246%2fR%3dmy%2fK%3d5%2fV%3d3.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d2426848017%2fH%3dY29udGVudD0ibm9fZXhwYW5kYWJsZTthamF4X2NlcnRfZXhwYW5kYWJsZTsiIHNlcnZlSWQ9IkVXYjExMktMOE5LTWF1dVRUZXF2MFFUM1JEemptazhMd3hJQUJfaWMiIHNpdGVJZD0iNDQ2MzU1MSIgdFN0bXA9IjEzMjYxNzA5MDEwODc3NTciIA--%2fQ%3d-1%2fS%3d1%2fJ%3d68F38B62\"></noscr"+"ipt><scr"+"ipt language=javascr"+"ipt>\n(function(){window.xzq_p=function(R){M=R};window.xzq_svr=function(R){J=R};function F(S){var T=document;if(T.xzq_i==null){T.xzq_i=new Array();T.xzq_i.c=0}var R=T.xzq_i;R[++R.c]=new Image();R[R.c].src=S}window.xzq_sr=function(){var S=window;var Y=S.xzq_d;if(Y==null){return }if(J==null){return }var T=J+M;if(T.length>P){C();return }var X=\"\";var U=0;var W=Math.random();var V=(Y.hasOwnProperty!=null);var R;for(R in Y){if(typeof Y[R]==\"string\"){if(V&&!Y.hasOwnProperty(R)){continue}if(T.length+X.length+Y[R].length<=P){X+=Y[R]}else{if(T.length+Y[R].length>P){}else{U++;N(T,X,U,W);X=Y[R]}}}}if(U){U++}N(T,X,U,W);C()};function N(R,U,S,T){if(U.length>0){R+=\"&al=\"}F(R+U+\"&s=\"+S+\"&r=\"+T)}function C(){window.xzq_d=null;M=null;J=null}function K(R){xzq_sr()}function B(R){xzq_sr()}function L(U,V,W){if(W){var R=W.toString();var T=U;var Y=R.match(new RegExp(\"\\\\\\\\(([^\\\\\\\\)]*)\\\\\\\\)\"));Y=(Y[1].length>0?Y[1]:\"e\");T=T.replace(new RegExp(\"\\\\\\\\([^\\\\\\\\)]*\\\\\\\\)\",\"g\"),\"(\"+Y+\")\");if(R.indexOf(T)<0){var X=R.indexOf(\"{\");if(X>0){R=R.substring(X,R.length)}else{return W}R=R.replace(new RegExp(\"([^a-zA-Z0-9$_])this([^a-zA-Z0-9$_])\",\"g\"),\"$1xzq_this$2\");var Z=T+\";var rv = f( \"+Y+\",this);\";var S=\"{var a0 = '\"+Y+\"';var ofb = '\"+escape(R)+\"' ;var f = new Function( a0, 'xzq_this', unescape(ofb));\"+Z+\"return rv;}\";return new Function(Y,S)}else{return W}}return V}window.xzq_eh=function(){if(E||I){this.onload=L(\"xzq_onload(e)\",K,this.onload,0);if(E&&typeof (this.onbeforeunload)!=O){this.onbeforeunload=L(\"xzq_dobeforeunload(e)\",B,this.onbeforeunload,0)}}};window.xzq_s=function(){setTimeout(\"xzq_sr()\",1)};var J=null;var M=null;var Q=navigator.appName;var H=navigator.appVersion;var G=navigator.userAgent;var A=parseInt(H);var D=Q.indexOf(\"Microsoft\");var E=D!=-1&&A>=4;var I=(Q.indexOf(\"Netscape\")!=-1||Q.indexOf(\"Opera\")!=-1)&&A>=4;var O=\"undefined\";var P=2000})();\n</scr"+"ipt><scr"+"ipt language=javascr"+"ipt>\nif(window.xzq_svr)xzq_svr('http://csc.beap.ad.yieldmanager.net/');\nif(window.xzq_p)xzq_p('i?bv=1.0.0&bs=(128biecim(gid$EWb112KL8NKMauuTTeqv0QT3RDzjmk8LwxIAB_ic,st$1326170901087757,v$1.0))&t=J_3-D_3');\nif(window.xzq_s)xzq_s();\n</scr"+"ipt><noscr"+"ipt><img width=1 height=1 alt=\"\" src=\"http://csc.beap.ad.yieldmanager.net/i?bv=1.0.0&bs=(128biecim(gid$EWb112KL8NKMauuTTeqv0QT3RDzjmk8LwxIAB_ic,st$1326170901087757,v$1.0))&t=J_3-D_3\"></noscr"+"ipt>";
+            YAHOO.ads.darla.setConfig(gFCConfig);
+            if(oConfig.props.jslazyload) {
+                if(YAHOO.ads.darla.renderPrefetchAds){
+                    for(adloc in window.globAdConfig){
+                        YAHOO.ads.darla._prefetch(adloc, window.globAdConfig[adloc].html, window.globAdConfig[adloc].csc);
+                    }
+                    YAHOO.ads.darla.renderPrefetchAds();
+                }else {
+                    YAHOO.ads.darla.event("default");
+                }
+            } else {
+                YAHOO.util.Event.addListener(window, "load", function(){
+                    for(adloc in window.globAdConfig){
+                        YAHOO.ads.darla._prefetch(adloc, window.globAdConfig[adloc].html, window.globAdConfig[adloc].csc);
+                    }
+                    if(YAHOO.ads.darla.renderPrefetchAds){
+                        YAHOO.ads.darla.renderPrefetchAds();
+                    }else {
+                        YAHOO.ads.darla.event("default");
+                    }
+                });
+            }
+        }
+	YAHOO.My.Application.init(oConfig);
+        var oDefConfig = {"js":{"search_assist":"my\/js\/components\/search_assist_0.1.41.js","yui_dragdrop":"my\/js\/yui_dragdrop_0.0.3.js","module_dragdrop":"my\/js\/components\/dragdrop_0.1.35.js","vsearch":"my\/js\/components\/vsearch_0.1.64.js","promo":"my\/js\/components\/promo_0.0.9.js"},"css":{"search_assist_css":"my\/css\/components\/search_assist_0.1.25.css","module_dragdrop_css":"my\/css\/components\/dragdrop_0.1.14.css"}};
+        YAHOO.My.Application.setDeferredPackages(oDefConfig);
+	gJSDone = Number(new Date());
+
+        }
+    });
+}, 0);
+
+</script>
+            </body>
+</html>
+<script> if ( 'undefined' != typeof(rt_LogTime) ) { rt_LogTime('t3', -1, true); rt_LogTime('t4', 2665, true); } </script><!-- 
+ LOADED_OK --><!-- p358.my.bf1.yahoo.com compressed/chunked Mon Jan  9 20:48:18 PST 2012 -->

@@ -4,6 +4,10 @@ My Yahoo Source to OPML Generator
 Converts My Yahoo Source code to OPML for importing into other web services
 ---------------------------------------------------------------------------
 
+[TODO] - add an option to paste sample code
+
+http://gen-opml.ekingery.com/
+
 http://daringfireball.net/projects/markdown/basics
 
 http://webapps.stackexchange.com/questions/1694/how-can-i-export-my-rss-feeds-from-my-yahoo/
