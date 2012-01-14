@@ -16,6 +16,8 @@ valid git clone and heroku account setup, deployment should be as simple as:
 	heroku create --stack cedar
 	git push heroku master
 
+Local development: shotgun gen_opml.rb -p 5000
+
 ### Todo
 Get [google](http://support.google.com/reader/bin/answer.py?hl=en&answer=70572)
  and [netvibes](http://faq.netvibes.com/how_to_switch_from_my_old_service_to_netvibes#switch_from_my_yahoo_to_netvibes) to update their FAQs.
