@@ -29,7 +29,8 @@
         var t = document.getElementsByTagName('script')[0];
         s.type = 'text/javascript';
         s.async = true;
-        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto&button=compact';
+        s.src = 'http://api.flattr.com/js/0.6/load.js?' + 
+          'mode=auto&button=compact&uid=refinedsir';
         t.parentNode.insertBefore(s, t);
     })();
 /* ]]> */
@@ -57,7 +58,6 @@
   <p>
     <a class="FlattrButton" style="display:none;"
         title="My Yahoo Source to OPML Generator"
-        data-flattr-uid="463597"
         data-flattr-tags="rss, opml, opensource"
         data-flattr-category="software"
         href="http://gen-opml.ekingery.com/">Pass the Hat</a>
